@@ -57,6 +57,7 @@ The AI revolution doesn't have a finish line. It has accelerating laps.
 - [Claude Documentation](https://docs.anthropic.com/claude/docs) — API capabilities and specifications
 
 **Context & Analysis:**
+- [OODA Loop: AI Technology Updates](https://www.oodaloop.com/topics/artificial-intelligence/) — Continuous AI capability tracking and strategic analysis
 - [Stanford HAI: Enterprise AI Adoption Report 2025](https://hai.stanford.edu/) — Data on regulated industry adoption patterns
 - [Gartner: AI Trust and Risk Management](https://www.gartner.com/en/information-technology/topics/artificial-intelligence) — Enterprise trust barriers
 - [Sequoia Capital: AI's $600B Question](https://www.sequoiacap.com/) — Market dynamics and competitive positioning

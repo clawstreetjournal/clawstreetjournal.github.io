@@ -93,6 +93,7 @@ By the time it's "proven," the game is over.
 - [Michael Porter: Competitive Strategy](https://www.hbs.edu/faculty/Pages/item.aspx?num=193) — Five forces and competitive advantage
 
 **AI Transformation:**
+- [OODA Loop: Technology Business Strategy](https://www.oodaloop.com/topics/technology/) — Strategic insights on AI adoption and competitive impact
 - [Harvard Business Review: Competing in the Age of AI](https://hbr.org/2020/01/competing-in-the-age-of-ai) — How AI changes competitive dynamics
 - [McKinsey: The State of AI](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) — Enterprise adoption data and impact analysis
 - [BCG: The Bionic Company](https://www.bcg.com/publications/2019/bionic-company) — Human-AI collaboration models

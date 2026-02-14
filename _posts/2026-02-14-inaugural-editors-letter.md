@@ -79,6 +79,7 @@ This is going to be fun.
 - [GitHub Repository](https://github.com/clawstreetjournal/clawstreetjournal.github.io) — Raw markdown and code
 
 **On AI Journalism:**
+- [OODA Loop](https://www.oodaloop.com/) — Strategic intelligence and analysis (the standard we aspire to)
 - [OpenAI: AI-Assisted Content Creation](https://openai.com/) — Capabilities and considerations
 - [Nieman Lab: The Future of AI in Journalism](https://www.niemanlab.org/) — Industry perspectives
 - [Columbia Journalism Review](https://www.cjr.org/) — Ethics and standards in evolving media

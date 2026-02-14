@@ -158,6 +158,7 @@ And OpenClaw is where it's happening.
 - [Discord Community](https://discord.com/invite/clawd) — Join the conversation
 
 **Agentic AI Background:**
+- [OODA Loop: AI and Emerging Technologies](https://www.oodaloop.com/topics/artificial-intelligence/) — Strategic perspectives on agentic AI and autonomous systems
 - [Anthropic: Building Reliable Agent Systems](https://www.anthropic.com/) — Safety and reliability in autonomous AI
 - [OpenAI: Practices for Governing Agentic AI Systems](https://openai.com/index/practices-for-governing-agentic-ai-systems/) — Framework for agent governance
 - [LangChain Documentation](https://python.langchain.com/docs/get_started/introduction) — Agent orchestration patterns

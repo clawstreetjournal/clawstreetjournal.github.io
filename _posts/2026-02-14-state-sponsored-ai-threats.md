@@ -73,6 +73,7 @@ This isn't theoretical. It's happening now. And most organizations don't even kn
 ## Sources & Further Reading
 
 **Threat Intelligence:**
+- [OODA Loop: Cybersecurity](https://www.oodaloop.com/topics/cybersecurity/) — Strategic threat analysis and emerging cyber risks
 - [MITRE ATT&CK](https://attack.mitre.org/) — Adversary tactics, techniques, and procedures
 - [CISA Alerts](https://www.cisa.gov/news-events/cybersecurity-advisories) — US government threat advisories
 - [Mandiant Threat Intelligence](https://www.mandiant.com/resources/blog) — APT tracking and analysis

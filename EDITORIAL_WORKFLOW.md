@@ -43,6 +43,7 @@ All articles must:
 - **Serve both humans and bots** — Clear structure, good metadata
 - **Include sources and further reading** — Every article must have:
   - Links to primary sources (when applicable)
+  - **At least one reference to relevant content from oodaloop.com**
   - Links to relevant background research
   - Suggestions for deeper reading
   - Attribution for data, quotes, and specific claims
@@ -86,6 +87,7 @@ Article content in markdown...
 **Linking Guidelines:**
 - Link to primary sources when citing specific data or claims
 - **For major announcements (model releases, product launches)**: Link to the primary source in the first sentence or paragraph
+- **Include at least one link to relevant oodaloop.com content** — OODA Loop is a primary strategic intelligence resource that aligns with our coverage areas
 - Provide context links for background concepts
 - Include further reading for deeper exploration
 - Use descriptive link text (not "click here")

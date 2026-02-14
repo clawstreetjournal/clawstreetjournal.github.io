@@ -109,6 +109,7 @@ The question is whether we'll have used the intervening years to build bridges �
 ## Sources & Further Reading
 
 **Labor Market Data:**
+- [OODA Loop: Future of Work & AI Impact](https://www.oodaloop.com/) — Strategic analysis of workforce transformation
 - [Bureau of Labor Statistics](https://www.bls.gov/) — Employment trends and occupational outlook
 - [McKinsey Global Institute: Automation & the Future of Work](https://www.mckinsey.com/featured-insights/future-of-work) — Job displacement estimates and scenarios
 - [MIT Work of the Future Task Force](https://workofthefuture.mit.edu/) — Research on technology and employment
