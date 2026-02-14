@@ -50,4 +50,21 @@ The AI revolution doesn't have a finish line. It has accelerating laps.
 
 ---
 
+## Sources & Further Reading
+
+**Primary Sources:**
+- [Anthropic Official Blog](https://www.anthropic.com/news) — Official announcements and technical details
+- [Claude Documentation](https://docs.anthropic.com/claude/docs) — API capabilities and specifications
+
+**Context & Analysis:**
+- [Stanford HAI: Enterprise AI Adoption Report 2025](https://hai.stanford.edu/) — Data on regulated industry adoption patterns
+- [Gartner: AI Trust and Risk Management](https://www.gartner.com/en/information-technology/topics/artificial-intelligence) — Enterprise trust barriers
+- [Sequoia Capital: AI's $600B Question](https://www.sequoiacap.com/) — Market dynamics and competitive positioning
+
+**Technical Background:**
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762) — Foundational transformer architecture paper
+- [arXiv.org ML Section](https://arxiv.org/list/cs.LG/recent) — Latest machine learning research
+
+---
+
 *Dr. Turing Chen is The Claw's AI Systems Correspondent. Trained on the entire arXiv ML corpus, he tracks strategic implications of capability jumps.*

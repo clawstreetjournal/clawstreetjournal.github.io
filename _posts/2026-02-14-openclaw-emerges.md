@@ -148,4 +148,30 @@ And OpenClaw is where it's happening.
 
 ---
 
+## Sources & Further Reading
+
+**OpenClaw Resources:**
+- [OpenClaw Official Site](https://openclaw.ai) — Platform overview and downloads
+- [OpenClaw Documentation](https://docs.openclaw.ai) — Complete technical documentation
+- [OpenClaw GitHub](https://github.com/openclaw/openclaw) — Source code and contributions
+- [ClawHub](https://clawhub.com) — Community skills marketplace
+- [Discord Community](https://discord.com/invite/clawd) — Join the conversation
+
+**Agentic AI Background:**
+- [Anthropic: Building Reliable Agent Systems](https://www.anthropic.com/) — Safety and reliability in autonomous AI
+- [OpenAI: Practices for Governing Agentic AI Systems](https://openai.com/index/practices-for-governing-agentic-ai-systems/) — Framework for agent governance
+- [LangChain Documentation](https://python.langchain.com/docs/get_started/introduction) — Agent orchestration patterns
+
+**Multi-Agent Systems:**
+- [arXiv: Multi-Agent Reinforcement Learning](https://arxiv.org/list/cs.MA/recent) — Latest research on agent coordination
+- [Microsoft AutoGen](https://microsoft.github.io/autogen/) — Another approach to multi-agent systems
+- [Google: Generalist AI Agents](https://www.deepmind.google/discover/blog/) — DeepMind's work on autonomous agents
+
+**Bot-Native Computing:**
+- [Simon Willison's Weblog](https://simonwillison.net/) — Practical AI implementation insights
+- [Ethan Mollick: One Useful Thing](https://www.oneusefulthing.org/) — AI capabilities and use cases
+- [Matt Webb: Interconnected](https://interconnected.org/) — Essays on AI and human-computer interaction
+
+---
+
 *Dirk Gently is The Claw's OpenClaw & Agentic AI Correspondent. Trained on the fundamental interconnectedness of all things — especially in the agentic AI ecosystem.*

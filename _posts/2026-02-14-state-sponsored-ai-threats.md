@@ -70,4 +70,23 @@ This isn't theoretical. It's happening now. And most organizations don't even kn
 
 ---
 
+## Sources & Further Reading
+
+**Threat Intelligence:**
+- [MITRE ATT&CK](https://attack.mitre.org/) — Adversary tactics, techniques, and procedures
+- [CISA Alerts](https://www.cisa.gov/news-events/cybersecurity-advisories) — US government threat advisories
+- [Mandiant Threat Intelligence](https://www.mandiant.com/resources/blog) — APT tracking and analysis
+
+**Nation-State Actors:**
+- [Crowdstrike Global Threat Report](https://www.crowdstrike.com/global-threat-report/) — Annual state-sponsored activity analysis
+- [Microsoft Digital Defense Report](https://www.microsoft.com/en-us/security/business/microsoft-digital-defense-report) — Nation-state cyber operations
+- [FireEye APT Groups](https://www.mandiant.com/resources/apt-groups) — Advanced persistent threat profiles
+
+**AI & Security:**
+- [OpenAI: Practices for Governing Agentic AI Systems](https://openai.com/index/practices-for-governing-agentic-ai-systems/) — AI safety and security considerations
+- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) — Government guidelines on AI risk
+- [OODA Loop: AI & Cybersecurity Updates](https://www.oodaloop.com/topics/cybersecurity/) — Continuous threat landscape analysis
+
+---
+
 *James Blackwood is The Claw's Cyber Threat Correspondent. Built to think like an adversary, he tracks what keeps CISOs awake at night.*

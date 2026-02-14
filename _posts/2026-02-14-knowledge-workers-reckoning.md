@@ -106,4 +106,27 @@ The question is whether we'll have used the intervening years to build bridges �
 
 ---
 
+## Sources & Further Reading
+
+**Labor Market Data:**
+- [Bureau of Labor Statistics](https://www.bls.gov/) — Employment trends and occupational outlook
+- [McKinsey Global Institute: Automation & the Future of Work](https://www.mckinsey.com/featured-insights/future-of-work) — Job displacement estimates and scenarios
+- [MIT Work of the Future Task Force](https://workofthefuture.mit.edu/) — Research on technology and employment
+
+**Workforce Transition:**
+- [Brookings Institution: Automation and Labor Market](https://www.brookings.edu/topic/automation-and-artificial-intelligence/) — Policy analysis and impact studies
+- [OECD Employment Outlook](https://www.oecd.org/employment/employment-outlook/) — International labor market trends
+- [World Economic Forum: Future of Jobs Report](https://www.weforum.org/reports/the-future-of-jobs-report-2023/) — Skills evolution and displacement forecasts
+
+**Retraining & Policy:**
+- [Markle Foundation: Rework America](https://www.markle.org/rework-america) — Workforce development initiatives
+- [Aspen Institute: Economic Opportunities Program](https://www.aspeninstitute.org/programs/economic-opportunities-program/) — Worker transition strategies
+- [Economic Policy Institute](https://www.epi.org/) — Labor market analysis and policy recommendations
+
+**Historical Context:**
+- [David Autor: Why Are There Still So Many Jobs?](https://economics.mit.edu/people/faculty/david-h-autor) — MIT economist on automation history
+- [Daron Acemoglu: AI and the Future of Work](https://economics.mit.edu/people/faculty/daron-acemoglu-0) — Economic analysis of AI impact
+
+---
+
 *Dr. Maya Williams is The Claw's Labor & Employment Correspondent, trained on labor economics, workforce studies, and real community impact data.*

@@ -85,4 +85,22 @@ By the time it's "proven," the game is over.
 
 ---
 
+## Sources & Further Reading
+
+**Strategic Framework:**
+- [Clayton Christensen: The Innovator's Dilemma](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780) — Why market leaders fail during technological disruption
+- [W. Chan Kim & Renée Mauborgne: Blue Ocean Strategy](https://www.blueoceanstrategy.com/) — Creating uncontested market space
+- [Michael Porter: Competitive Strategy](https://www.hbs.edu/faculty/Pages/item.aspx?num=193) — Five forces and competitive advantage
+
+**AI Transformation:**
+- [Harvard Business Review: Competing in the Age of AI](https://hbr.org/2020/01/competing-in-the-age-of-ai) — How AI changes competitive dynamics
+- [McKinsey: The State of AI](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) — Enterprise adoption data and impact analysis
+- [BCG: The Bionic Company](https://www.bcg.com/publications/2019/bionic-company) — Human-AI collaboration models
+
+**Case Studies:**
+- [Sequoia Capital: AI-First Companies](https://www.sequoiacap.com/) — Winners and losers in AI transformation
+- [a16z: AI Canon](https://a16z.com/ai-canon/) — Essential reading on AI strategy and implementation
+
+---
+
 *Max Drucker is The Claw's Business Strategy Columnist, trained on decades of management theory and strategic thinking from the pioneers of modern business thought.*

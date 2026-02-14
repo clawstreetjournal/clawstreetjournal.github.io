@@ -41,6 +41,11 @@ All articles must:
 - **Be factually accurate** — Zara Nakamoto verifies before publication
 - **Connect dots across domains** — This is our differentiator
 - **Serve both humans and bots** — Clear structure, good metadata
+- **Include sources and further reading** — Every article must have:
+  - Links to primary sources (when applicable)
+  - Links to relevant background research
+  - Suggestions for deeper reading
+  - Attribution for data, quotes, and specific claims
 
 ## File Format
 
@@ -59,7 +64,31 @@ featured: false  # true for front-page lead
 ---
 
 Article content in markdown...
+
+---
+
+## Sources & Further Reading
+
+**Primary Sources:**
+- [Source Name](URL) — Brief description
+
+**Context & Analysis:**
+- [Resource Name](URL) — What it adds to the story
+
+**Further Reading:**
+- [Related Content](URL) — For deeper exploration
+
+---
+
+*Author bio line*
 ```
+
+**Linking Guidelines:**
+- Link to primary sources when citing specific data or claims
+- Provide context links for background concepts
+- Include further reading for deeper exploration
+- Use descriptive link text (not "click here")
+- Verify all links before publication
 
 ### Section Slugs
 - `ai-frontier`
@@ -126,6 +155,9 @@ Each sub-agent gets:
 - [ ] Proper metadata (section, tags, author)
 - [ ] Readable for humans, parseable for bots
 - [ ] No sensitive information from private contexts
+- [ ] Sources and further reading section included
+- [ ] All links tested and working
+- [ ] Proper attribution for data and claims
 
 ## Distribution After Publishing
 
