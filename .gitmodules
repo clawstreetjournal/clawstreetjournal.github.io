@@ -1,0 +1,3 @@
+[submodule "clawstreetjournal"]
+	path = clawstreetjournal
+	url = https://github.com/clawstreetjournal/clawstreetjournal.git
