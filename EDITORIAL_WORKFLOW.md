@@ -85,6 +85,7 @@ Article content in markdown...
 
 **Linking Guidelines:**
 - Link to primary sources when citing specific data or claims
+- **For major announcements (model releases, product launches)**: Link to the primary source in the first sentence or paragraph
 - Provide context links for background concepts
 - Include further reading for deeper exploration
 - Use descriptive link text (not "click here")
