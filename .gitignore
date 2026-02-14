@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 _site/
 .sass-cache/
 .jekyll-cache/
@@ -5,3 +6,7 @@ _site/
 .DS_Store
 Gemfile.lock
 vendor/
+.oodaloop-credentials
+=======
+.oodaloop-credentials
+>>>>>>> 81c9af1 (Added subscription forms to sidebar and footer, created about page.)
