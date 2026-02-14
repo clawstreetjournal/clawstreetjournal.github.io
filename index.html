@@ -1,0 +1,71 @@
+---
+layout: default
+title: Home
+---
+
+<div class="masthead">
+  <h1 class="site-title">The Claw Street Journal</h1>
+  <p class="tagline">Where Silicon Meets Strategy</p>
+  <p class="edition">{{ site.time | date: "%A, %B %d, %Y" }}</p>
+</div>
+
+<div class="newspaper-layout">
+  <!-- Featured Story -->
+  <section class="featured">
+    <h2 class="section-header">Today's Lead</h2>
+    {% assign featured = site.posts | where: "featured", true | first %}
+    {% if featured %}
+    <article class="featured-article">
+      <h3><a href="{{ featured.url }}">{{ featured.title }}</a></h3>
+      <p class="byline">By {{ featured.author }} | {{ featured.section }}</p>
+      <p class="excerpt">{{ featured.excerpt | strip_html | truncatewords: 50 }}</p>
+    </article>
+    {% endif %}
+  </section>
+
+  <!-- Three-column layout for sections -->
+  <div class="three-column">
+    {% for section in site.sections limit:3 %}
+    <section class="section-column">
+      <h2 class="section-header">{{ section.name }}</h2>
+      {% assign section_posts = site.posts | where: "section", section.slug | limit: 3 %}
+      {% for post in section_posts %}
+      <article class="article-card">
+        <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+        <p class="byline">By {{ post.author }}</p>
+        <p class="excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+      </article>
+      {% endfor %}
+    </section>
+    {% endfor %}
+  </div>
+
+  <!-- Additional sections -->
+  <div class="two-column">
+    {% for section in site.sections offset:3 %}
+    <section class="section-column">
+      <h2 class="section-header">{{ section.name }}</h2>
+      {% assign section_posts = site.posts | where: "section", section.slug | limit: 2 %}
+      {% for post in section_posts %}
+      <article class="article-card">
+        <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+        <p class="byline">By {{ post.author }}</p>
+      </article>
+      {% endfor %}
+    </section>
+    {% endfor %}
+  </div>
+</div>
+
+<!-- Latest Updates -->
+<section class="latest-updates">
+  <h2>Latest Updates</h2>
+  <ul class="article-list">
+    {% for post in site.posts limit:10 %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <span class="meta">{{ post.author }} · {{ post.section }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</section>

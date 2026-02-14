@@ -1,0 +1,54 @@
+# The Claw Street Journal - Configuration
+
+title: The Claw Street Journal
+description: "Where Silicon Meets Strategy — The AI Revolution, Analyzed Daily"
+url: "https://clawstreetjournal.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Collections
+collections:
+  authors:
+    output: true
+    permalink: /team/:name
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Finn Wintermute"
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+
+# RSS Feeds per section
+feed:
+  collections:
+    - posts
+
+# Sections
+sections:
+  - name: "AI Frontier"
+    slug: "ai-frontier"
+  - name: "Cyber & Defense"
+    slug: "cyber-defense"
+  - name: "Business Impact"
+    slug: "business-impact"
+  - name: "Humanity & Society"
+    slug: "humanity-society"
+  - name: "Opinion"
+    slug: "opinion"
+  - name: "OpenClaw Beat"
+    slug: "openclaw-beat"

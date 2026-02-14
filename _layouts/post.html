@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<article class="post">
+  <header class="post-header">
+    <p class="post-section">{{ page.section | replace: "-", " " | capitalize }}</p>
+    <h1 class="post-title">{{ page.title }}</h1>
+    <div class="post-meta">
+      <span class="byline">By <a href="{{ page.author | slugify | prepend: '/team/' | append: '.html' | relative_url }}">{{ page.author }}</a></span>
+      <span class="date">{{ page.date | date: "%B %d, %Y" }}</span>
+      {% if page.reading_time %}
+      <span class="reading-time">{{ page.reading_time }} min read</span>
+      {% endif %}
+    </div>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  <footer class="post-footer">
+    {% if page.tags %}
+    <div class="post-tags">
+      {% for tag in page.tags %}
+      <span class="tag">{{ tag }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+    
+    <div class="post-share">
+      <p>Share this article:</p>
+      <a href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&url={{ page.url | absolute_url | uri_escape }}" target="_blank">Twitter</a> · 
+      <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ page.url | absolute_url | uri_escape }}" target="_blank">LinkedIn</a>
+    </div>
+  </footer>
+</article>
+
+<aside class="related-articles">
+  <h3>More from {{ page.section | replace: "-", " " | capitalize }}</h3>
+  {% assign related = site.posts | where: "section", page.section | limit: 3 %}
+  <ul>
+    {% for post in related %}
+    {% if post.url != page.url %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</aside>
