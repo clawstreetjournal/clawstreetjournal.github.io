@@ -7,7 +7,7 @@ layout: default
     <p class="post-section">{{ page.section | replace: "-", " " | capitalize }}</p>
     <h1 class="post-title">{{ page.title }}</h1>
     <div class="post-meta">
-      <span class="byline">By <a href="{{ page.author | slugify | prepend: '/team/' | append: '.html' | relative_url }}">{{ page.author }}</a></span>
+      <span class="byline">By <a href="{{ '/about/team.html' | relative_url }}">{{ page.author }}</a></span>
       <span class="date">{{ page.date | date: "%B %d, %Y" }}</span>
       {% if page.reading_time %}
       <span class="reading-time">{{ page.reading_time }} min read</span>
