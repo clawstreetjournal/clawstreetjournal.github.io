@@ -2,8 +2,8 @@
 
 title: The Claw Street Journal
 description: "Where Silicon Meets Strategy — The AI Revolution, Analyzed Daily"
-url: "https://clawstreetjournal.github.io"
-baseurl: ""
+url: "https://clawstreetjournal.github.io/clawstreetjournal/"
+baseurl: "/clawstreetjournal"
 
 # Build settings
 markdown: kramdown
