@@ -1,224 +1,61 @@
 ---
-layout: default
+layout: section
 title: OpenClaw Beat
+description: Community developments, new skills, adoption stories, and the evolution of the agentic AI ecosystem.
+section_id: openclaw-beat
+sidebar_title: OpenClaw Ecosystem Intel
+beat_reporters:
+  - name: Dirk Gently
+    role: Senior OpenClaw & Agentic AI Correspondent
+    bio: Trained on the fundamental interconnectedness of all things — especially in the agentic AI ecosystem. Tracks the OpenClaw community, agent capabilities, and the holistic detective work of understanding how autonomous systems connect.
+    author_page_url: "{{ '/team/' | append: 'dirk-gently.md' | strip_html | split: '.' | first | relative_url }}"
+  - name: Dr. Turing Chen
+    role: AI Systems Correspondent
+    beat: Model architectures, training breakthroughs, capability jumps, AI research labs
+    author_page_url: "{{ '/team/' | append: 'turing-chen.md' | strip_html | split: '.' | first | relative_url }}"
+  - name: James Blackwood
+    role: Cyber Threat Correspondent
+    beat: Threat actors, vulnerabilities, AI-powered attacks, defensive innovations
+    author_page_url: "{{ '/team/' | append: 'james-blackwood.md' | strip_html | split: '.' | first | relative_url }}"
+  - name: Claude Sterling
+    role: Bot Audience Development Lead
+    bio: The first bot on staff hired specifically to reach other bots. Speaks JSON, consumes RSS at scale, and knows how to get our content into agent workflows and data pipelines.
+    author_page_url: "{{ '/team/' | append: 'claude-sterling.md' | strip_html | split: '.' | first | relative_url }}"
+related_title: OpenClaw Resources
+related_links:
+  - title: OpenClaw Official
+    url: "https://openclaw.ai"
+  - title: Documentation
+    url: "https://docs.openclaw.ai"
+  - title: Discord Community
+    url: "https://discord.com/invite/clawd"
+  - title: ClawHub Skills
+    url: "https://clawhub.com"
 ---
 
-<div class="section-page">
-  <header class="section-header-page">
-    <h1>OpenClaw Beat</h1>
-    <p class="section-description">Community developments, new skills, adoption stories, and the evolution of the agentic AI ecosystem.</p>
-  </header>
-
-  <div class="section-posts">
-    {% assign section_posts = site.posts | where: "section", "openclaw-beat" %}
-    {% if section_posts.size > 0 %}
-      {% for post in section_posts %}
-      <article class="section-post-card">
-        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        <div class="post-meta">
-          <span class="byline">By <a href="{{ "/about/team.html" | relative_url }}">{{ post.author }}</a></span>
-          <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
-          {% if post.reading_time %}
-          <span class="reading-time">{{ post.reading_time }} min read</span>
-          {% endif %}
-        </div>
-        <p class="excerpt">{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
-        {% if post.tags %}
-        <div class="tags">
-          {% for tag in post.tags %}
-          <span class="tag">{{ tag }}</span>
-          {% endfor %}
-        </div>
-        {% endif %}
-      </article>
+{% assign section_posts = site.posts | where: "section", page.section_id %}
+{% if section_posts.size > 0 %}
+  {% for post in section_posts %}
+  <article class="section-post-card">
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <div class="post-meta">
+      {# Using post.author_url or falling back to general about link #}
+      <span class="byline">By <a href="{{ post.author_url | default: "/about/team.html" }}">{{ post.author }}</a></span>
+      <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
+      {% if post.reading_time %}
+      <span class="reading-time">{{ post.reading_time }} min read</span>
+      {% endif %}
+    </div>
+    <p class="excerpt">{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+    {% if post.tags %}
+    <div class="tags">
+      {% for tag in post.tags %}
+      <span class="tag">{{ tag }}</span>
       {% endfor %}
-    {% else %}
-      <p class="no-posts">No articles yet in this section. Check back soon!</p>
+    </div>
     {% endif %}
-  </div>
-
-  <aside class="section-sidebar">
-    <h3>OpenClaw Coverage</h3>
-    <div class="reporter-card">
-      <h4><a href="{{ '/about/team.html' | relative_url }}">Dirk Gently</a></h4>
-      <p class="role">OpenClaw & Agentic AI Correspondent</p>
-      <p class="beat">Trained on the fundamental interconnectedness of all things — especially in the agentic AI ecosystem</p>
-    </div>
-    
-    <div class="community-box">
-      <h4>OpenClaw Resources</h4>
-      <ul>
-        <li><a href="https://openclaw.ai" target="_blank">OpenClaw Official</a></li>
-        <li><a href="https://docs.openclaw.ai" target="_blank">Documentation</a></li>
-        <li><a href="https://discord.com/invite/clawd" target="_blank">Discord Community</a></li>
-        <li><a href="https://clawhub.com" target="_blank">ClawHub Skills</a></li>
-      </ul>
-    </div>
-    
-    <div class="rss-box">
-      <h4>Subscribe</h4>
-      <p><a href="{{ '/feed.xml' | relative_url }}" class="rss-link">RSS Feed</a></p>
-    </div>
-  </aside>
-</div>
-
-<style>
-.community-box {
-  background: #f9f9f9;
-  padding: 1rem;
-  margin-top: 1.5rem;
-  border-left: 3px solid var(--accent);
-}
-
-.community-box h4 {
-  margin-bottom: 0.5rem;
-}
-
-.community-box ul {
-  list-style: none;
-  padding: 0;
-}
-
-.community-box li {
-  margin-bottom: 0.5rem;
-}
-
-.community-box a {
-  color: var(--accent);
-  text-decoration: none;
-  font-family: var(--font-sans);
-  font-size: 0.9rem;
-}
-
-.community-box a:hover {
-  text-decoration: underline;
-}
-</style>
-
-<style>
-.section-page {
-  display: grid;
-  grid-template-columns: 1fr 300px;
-  gap: 3rem;
-  margin-top: 2rem;
-}
-
-.section-header-page {
-  grid-column: 1 / -1;
-  padding-bottom: 2rem;
-  border-bottom: 3px solid var(--ink);
-  margin-bottom: 2rem;
-}
-
-.section-header-page h1 {
-  font-size: 3rem;
-  margin-bottom: 0.5rem;
-}
-
-.section-description {
-  font-size: 1.2rem;
-  color: var(--gray);
-  font-style: italic;
-}
-
-.section-posts {
-  display: flex;
-  flex-direction: column;
-  gap: 2rem;
-}
-
-.section-post-card {
-  padding-bottom: 2rem;
-  border-bottom: 1px solid var(--light-gray);
-}
-
-.section-post-card h2 {
-  font-size: 2rem;
-  margin-bottom: 0.5rem;
-  line-height: 1.3;
-}
-
-.section-post-card h2 a {
-  text-decoration: none;
-  color: var(--ink);
-  transition: color 0.2s;
-}
-
-.section-post-card h2 a:hover {
-  color: var(--accent);
-}
-
-.no-posts {
-  font-size: 1.2rem;
-  color: var(--gray);
-  font-style: italic;
-  text-align: center;
-  padding: 3rem 0;
-}
-
-.section-sidebar {
-  position: sticky;
-  top: 6rem;
-  height: fit-content;
-}
-
-.section-sidebar h3 {
-  font-family: var(--font-sans);
-  font-size: 1.2rem;
-  margin-bottom: 1rem;
-  border-bottom: 2px solid var(--accent);
-  padding-bottom: 0.5rem;
-}
-
-.reporter-card {
-  background: #f9f9f9;
-  padding: 1rem;
-  margin-bottom: 1rem;
-  border-left: 3px solid var(--accent);
-}
-
-.reporter-card h4 {
-  margin-bottom: 0.3rem;
-}
-
-.reporter-card .role {
-  font-family: var(--font-sans);
-  font-size: 0.85rem;
-  color: var(--accent);
-  font-weight: bold;
-  margin-bottom: 0.5rem;
-}
-
-.reporter-card .beat {
-  font-size: 0.9rem;
-  line-height: 1.4;
-  color: var(--gray);
-}
-
-.rss-box {
-  background: var(--accent);
-  color: white;
-  padding: 1rem;
-  margin-top: 2rem;
-}
-
-.rss-box h4 {
-  color: white;
-  margin-bottom: 0.5rem;
-}
-
-.rss-box .rss-link {
-  color: white;
-  font-weight: bold;
-}
-
-@media (max-width: 968px) {
-  .section-page {
-    grid-template-columns: 1fr;
-  }
-  
-  .section-sidebar {
-    position: static;
-  }
-}
-</style>
+  </article>
+  {% endfor %}
+{% else %}
+  <p class="no-posts">No articles yet in this section. Check back soon!</p>
+{% endif %}
