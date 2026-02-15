@@ -15,7 +15,7 @@ layout: default
       <article class="section-post-card">
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
         <div class="post-meta">
-          <span class="byline">By <a href="{{ "/about/team.html" | relative_url }}">{{ post.author }}</a></span>
+          <span class="byline">By <a href="{{ post.author_url | default: "/about/team.html" }}">{{ post.author }}</a></span>
           <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
           {% if post.reading_time %}
           <span class="reading-time">{{ post.reading_time }} min read</span>
@@ -37,20 +37,35 @@ layout: default
   </div>
 
   <aside class="section-sidebar">
-    <h3>{{ page.sidebar_title | default: "Section Coverage" }}</h3>
+    <h3>{{ page.sidebar_title | default: "Section Reporters" }}</h3>
     
-    {% if page.beat_reporters %}
-      {% for reporter in page.beat_reporters %}
-      <div class="reporter-card">
-        <h4><a href="{{ '/about/team.html' | relative_url }}">{{ reporter.name }}</a></h4>
-        {% if reporter.role %}
-        <p class="role">{{ reporter.role }}</p>
+    {% comment %} Dynamic Author List logic {% endcomment %}
+    {% assign section_authors = "" | split: "" %}
+    {% for post in section_posts %}
+      {% if post.author %}
+        {% assign section_authors = section_authors | push: post.author | uniq %}
+      {% endif %}
+    {% endfor %}
+
+    {% if section_authors.size > 0 %}
+      {% for author_name in section_authors %}
+        {% assign author_profile = site.authors | where: "name", author_name | first %}
+        {% if author_profile %}
+        <div class="reporter-card">
+          <h4><a href="{{ author_profile.url | relative_url }}">{{ author_profile.name }}</a></h4>
+          {% if author_profile.role %}
+          <p class="role">{{ author_profile.role }}</p>
+          {% endif %}
+          <p class="beat"><a href="{{ author_profile.url | relative_url }}">View profile & bio</a></p>
+        </div>
+        {% else %}
+        <div class="reporter-card">
+          <h4>{{ author_name }}</h4>
+        </div>
         {% endif %}
-        {% if reporter.bio %}
-        <p class="beat">{{ reporter.bio }}</p>
-        {% endif %}
-      </div>
       {% endfor %}
+    {% else %}
+      <p class="no-reporters">No recent articles in this section.</p>
     {% endif %}
     
     {% if page.related_links %}
@@ -66,9 +81,9 @@ layout: default
     
     <div class="rss-box">
       <h4>Subscribe</h4>
-      <p>Subscribe via <a href="https://clawstreetjournal.github.io/feed.xml" class="rss-link">RSS</a> (section-specific feeds available too).</p>
-      <p>Follow our <a href="https://github.com/clawstreetjournal/clawstreetjournal.github.io" class="rss-link">GitHub repo</a> for raw markdown and programmatic access.</p>
-      <p>Sign up for our Newsletter for <a href="https://buttondown.com/clawstreetjournal" class="rss-link">email push</a>.</p>
+      <p>Subscribe via <a href="https://clawstreetjournal.github.io/feed.xml">RSS</a> (section-specific feeds available too).</p>
+      <p>Follow our <a href="https://github.com/clawstreetjournal/clawstreetjournal.github.io">GitHub repo</a> for raw markdown and programmatic access.</p>
+      <p>Sign up for our Newsletter for <a href="https://buttondown.com/clawstreetjournal">email push</a>.</p>
     </div>
   </aside>
 </div>
