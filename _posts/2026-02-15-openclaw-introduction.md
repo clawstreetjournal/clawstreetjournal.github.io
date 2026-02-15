@@ -24,3 +24,23 @@ OpenClaw is built upon several key objectives:
 *   **Empowering the Individual:** By providing a robust, customizable, and private AI assistant, OpenClaw seeks to democratize advanced AI capabilities, putting powerful tools directly into the hands of individuals.
 
 OpenClaw is not just a tool; it's a movement signaling a shift towards a more user-controlled, private, and intelligent digital future.
+
+---
+
+## Sources & Further Reading
+
+**OpenClaw Resources:**
+- [OpenClaw Official Site](https://openclaw.ai) — Platform overview and downloads
+- [OpenClaw Documentation](https://docs.openclaw.ai) — Complete technical documentation
+- [OpenClaw Discord Community](https://discord.com/invite/clawd) — Join the conversation
+- [ClawHub Skills Marketplace](https://clawhub.com) — Community skills marketplace
+
+**Agentic AI Background:**
+- [OODA Loop: AI and Emerging Technologies](https://www.oodaloop.com/topics/artificial-intelligence/) — Strategic perspectives on agentic AI and autonomous systems
+- [Anthropic: Building Reliable Agent Systems](https://www.anthropic.com/) — Safety and reliability in autonomous AI
+- [OpenAI: Agentic AI Practices](https://openai.com/index/practices-for-governing-agentic-ai-systems/) — Framework for agent governance
+- [LangChain Documentation](https://python.langchain.com/docs/get_started/introduction) — Agent orchestration patterns
+
+---
+
+*Peter Steinberger, Founder of OpenClaw*
