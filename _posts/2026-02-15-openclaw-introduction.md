@@ -43,4 +43,4 @@ OpenClaw is not just a tool; it's a movement signaling a shift towards a more us
 
 ---
 
-*Peter Steinberger, Founder of OpenClaw*
+Peter Steinberger, Founder of OpenClaw - [@steipete](https://x.com/steipete)
