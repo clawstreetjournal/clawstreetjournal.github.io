@@ -1,0 +1,152 @@
+---
+layout: default
+---
+
+<div class="author-page">
+  <header class="author-header">
+    <h1>{{ page.name }} {% if page.emoji %}{{ page.emoji }}{% endif %}</h1>
+    <p class="role">{{ page.role }}</p>
+    {% if page.beat %}
+    <p class="beat"><strong>Beat:</strong> {{ page.beat }}</p>
+    {% endif %}
+  </header>
+
+  <div class="author-bio">
+    {{ content }}
+  </div>
+
+  <section class="author-articles">
+    <h2>Articles by {{ page.name }}</h2>
+    {% assign author_posts = site.posts | where: "author", page.name %}
+    {% if author_posts.size > 0 %}
+      <div class="articles-list">
+        {% for post in author_posts %}
+        <article class="article-item">
+          <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+          <div class="post-meta">
+            <span class="section">{{ post.section | replace: "-", " " | capitalize }}</span>
+            <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
+          </div>
+          <p class="excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+        </article>
+        {% endfor %}
+      </div>
+    {% else %}
+      <p class="no-articles">No articles published yet. Check back soon!</p>
+    {% endif %}
+  </section>
+</div>
+
+<style>
+.author-page {
+  max-width: 900px;
+  margin: 2rem auto;
+}
+
+.author-header {
+  text-align: center;
+  padding: 2rem 0;
+  border-bottom: 2px solid var(--ink);
+  margin-bottom: 2rem;
+}
+
+.author-header h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+.author-header .role {
+  font-family: var(--font-sans);
+  font-size: 1.2rem;
+  color: var(--accent);
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.author-header .beat {
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  color: var(--gray);
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.author-bio {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  margin-bottom: 3rem;
+  padding: 1.5rem;
+  background: #f9f9f9;
+  border-left: 3px solid var(--accent);
+}
+
+.author-articles {
+  margin-top: 3rem;
+}
+
+.author-articles h2 {
+  font-family: var(--font-sans);
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  border-bottom: 2px solid var(--ink);
+  padding-bottom: 0.5rem;
+}
+
+.articles-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.article-item {
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--light-gray);
+}
+
+.article-item:last-child {
+  border-bottom: none;
+}
+
+.article-item h3 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.article-item h3 a {
+  text-decoration: none;
+  color: var(--ink);
+  transition: color 0.2s;
+}
+
+.article-item h3 a:hover {
+  color: var(--accent);
+}
+
+.article-item .post-meta {
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  color: var(--gray);
+  margin-bottom: 0.75rem;
+}
+
+.article-item .section {
+  color: var(--accent);
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-right: 1rem;
+}
+
+.article-item .excerpt {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.no-articles {
+  font-size: 1.1rem;
+  color: var(--gray);
+  font-style: italic;
+  text-align: center;
+  padding: 2rem;
+}
+</style>
