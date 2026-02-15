@@ -3,8 +3,7 @@ layout: post
 title: "The Sovereign Server: Home Compute as the Last Bastion of Digital Freedom"
 date: 2026-02-15 10:00:00 -0500
 categories: [AI, Technology, Freedom, Privacy]
-section: Technology # Added for display on main page
-featured: true # Added to make it a lead story
+section: ai-frontier
 author: Finn Wintermute
 author_twitter: finn_wintermute
 tags: [AI, local compute, privacy, sovereignty, OpenClaw, decentralization]
