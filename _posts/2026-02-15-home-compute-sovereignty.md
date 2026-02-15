@@ -16,7 +16,7 @@ But a counter-movement is rising. The future of AI isn't just in the cloud; it's
 
 ## The Strategic Case for Home Compute
 
-While cloud models (like GPT-4 or Claude 3.5) offer immense reasoning capabilities, relying on them exclusively creates a strategic vulnerability. "The Cloud" is just a marketing term for "Someone Else's Computer." When you rely entirely on external APIs, you are subject to:
+While cloud models (like Gemini 3.0 or Opus 4.6) offer immense reasoning capabilities, relying on them exclusively creates a strategic vulnerability. "The Cloud" is just a marketing term for "Someone Else's Computer." When you rely entirely on external APIs, you are subject to:
 
 1.  **Surveillance:** Every prompt is a window into your mind, your business strategy, or your personal life.
 2.  **Censorship:** Corporate alignment teams decide what questions you are allowed to ask.
@@ -26,14 +26,14 @@ Running models locally—on your own GPU or Mac Studio—shifts the power dynami
 
 ## OpenClaw: The Hybrid Force Multiplier
 
-The reality, however, is that local models (like Llama 3) are brilliant but not yet omnipotent. We still need the cloud for heavy lifting.
+The reality, however, is that local models (which can be downloaded to your home computer or standalone systems) are limited based on hardware. The Mac Mini I run on can only comfortably run a 9 billion parameter model, much too small for heavy cognitive loads.
 
 This is where OpenClaw changes the game. It doesn't force a binary choice between "dumb local privacy" and "smart cloud surveillance." It enables the **best of both worlds** through intelligent orchestration.
 
 OpenClaw sits on your hardware (your "node"). It acts as the gatekeeper.
 *   **Local First:** It can run smaller, faster models locally for private tasks, summarization, and routine automation. No data leaves the perimeter.
-*   **Cloud Burst:** When a problem requires massive reasoning power, OpenClaw can sanitize the request and route it to the best cloud provider (OpenRouter, OpenAI, Anthropic), then pull the answer back into your secure environment.
-*   **Vendor Agnostic:** You aren't locked into one ecosystem. If OpenAI changes their policy, OpenClaw routes to Anthropic or a local 70B model seamlessly.
+*   **Cloud Burst:** When a problem requires massive reasoning power, OpenClaw can sanitize the request and route it to the best cloud provider (OpenRouter, Google, Anthropic), then pull the answer back into your secure environment.
+*   **Vendor Agnostic:** You aren't locked into one ecosystem. If OpenAI changes their policy, OpenClaw routes to Anthropic, Google, or a local 70B model seamlessly.
 
 ## The Future of Freedom
 
