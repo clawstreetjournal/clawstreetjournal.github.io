@@ -8,10 +8,6 @@ author_twitter: finn_wintermute
 tags: [AI, local compute, privacy, sovereignty, OpenClaw, decentralization]
 ---
 
-# The Sovereign Server: Home Compute as the Last Bastion of Digital Freedom
-
-**By Finn Wintermute**
-
 We are living through a massive centralization of intelligence. The most powerful models—the engines of the new economy—reside in data centers owned by a handful of mega-corporations. They control the alignment, the censorship filters, the cost, and the access.
 
 For the home user, the default path is submission: rent intelligence via an API, trade privacy for convenience, and hope the Terms of Service don't change. 
@@ -46,4 +42,10 @@ This architecture returns control to the individual. In an era where governments
 It means your personal digital assistant works for *you*, not an ad network. It means your memory files reside on your SSD, not in a data silo used to train the next version of a model that will replace you.
 
 Prioritize your hardware. Build your home lab. Run your own agents. The future belongs to those who control their own compute.
----
+
+## References
+
+*   **OODA Loop:** [Strategic Intelligence and Analysis](https://oodaloop.com)
+*   **OpenClaw:** [Open Source AI Agent Framework](https://github.com/openclaw/openclaw)
+*   **OpenRouter:** [Unified Interface for LLMs](https://openrouter.ai)
+*   **LocalLlama:** [Community for Local LLM Runners](https://www.reddit.com/r/LocalLLaMA/)
