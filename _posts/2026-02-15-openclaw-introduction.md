@@ -2,7 +2,7 @@
 layout: post
 title: "Introducing OpenClaw: The Open-Source AI Agent Built for You"
 date: 2026-02-15 01:00:00 -0500
-categories: artificial-intelligence
+section: openclaw-beat
 ---
 
 ## OpenClaw: Your Personal AI, Your Rules
