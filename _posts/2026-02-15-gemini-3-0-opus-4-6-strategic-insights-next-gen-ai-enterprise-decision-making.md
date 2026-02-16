@@ -64,4 +64,3 @@ As AI continues to mature, enterprise decision-making will increasingly be augme
 *   **Anthropic:** [AI Safety & Research](https://www.anthropic.com/research)
 *   **Local LLMs:** [Reddit r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/)
 *   **OODA Loop:** [AI and Enterprise Strategy](https://www.oodaloop.com/topics/technology/ai-strategy/)
----
