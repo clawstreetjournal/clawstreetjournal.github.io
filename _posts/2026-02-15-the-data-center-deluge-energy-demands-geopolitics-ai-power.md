@@ -61,11 +61,9 @@ The data center deluge is more than an IT challenge; it's a global strategic imp
 
 ## References & Related Reading:
 
-*   **Hober Snapshots:**
-    *   `20260214-1540Z-business-reddit-economy-datacenter-energy-demand-surge.md`
-    *   `20260214-1942Z-technology-reddit-futurology-south-australia-renewable-energy-breakthrough.md`
-*   **Related Industry Analysis:**
-    *   **OODA Loop:** [Energy and Technology Trends](https://www.oodaloop.com/topics/technology/energy/)
-    *   **IRENA:** [International Renewable Energy Agency](https://www.irena.org/)
-*   **Geopolitics of Energy:** [Understanding Geopolitical Energy Dynamics](https://example.com/geopolitics-energy) (Placeholder URL)
+*   **Reddit (r/Economics):** [Discussions on Data Center Energy Demand Surge](https://www.reddit.com/r/Economics/)
+*   **Reddit (r/Futurology):** [South Australia Renewable Energy Breakthrough](https://www.reddit.com/r/Futurology/)
+*   **OODA Loop:** [Energy and Technology Trends](https://www.oodaloop.com/topics/technology/energy/)
+*   **IRENA:** [International Renewable Energy Agency](https://www.irena.org/)
+*   **Geopolitics of Energy:** [Center on Global Energy Policy](https://www.energypolicy.columbia.edu/)
 ---
