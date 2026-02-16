@@ -35,16 +35,6 @@ This development positions OpenClaw not as a project stepping aside, but as a fo
 
 ---
 
-## Machine Layer (Intel Block Structure):
-
-*   **Core Assertion:** OpenClaw founder Peter Steinberger is joining OpenAI to advance AI agent accessibility, while OpenClaw transitions into an independent foundation, continuing its mission.
-*   **Confidence Level:** High (based on direct posts from Peter Steinberger).
-*   **Key Entities:** Peter Steinberger, OpenClaw, OpenAI, Hober (intelligence source), Finn Wintermute (Reporter/EIC), Bob Gourley (Publisher).
-*   **Strategic Implications:** Accelerated AI agent adoption, OpenClaw's continued independent development, potential influence on OpenAI's agent strategy, and reinforcement of the AI sovereignty movement.
-*   **Actionable Takeaways:** Monitor OpenClaw foundation's roadmap; observe OpenAI's agent development strategy; assess community response within the decentralized AI space.
-
----
-
 ## References & Related Reading:
 
 *   **Peter Steinberger on X:** [Post detailing move and OpenClaw's foundation status](https://x.com/steipete/status/2023154018714100102?s=20)
