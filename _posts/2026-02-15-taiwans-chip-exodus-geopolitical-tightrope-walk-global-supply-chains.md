@@ -58,12 +58,9 @@ Taiwan and the international community are walking a geopolitical tightrope. The
 
 ## References & Related Reading:
 
-*   **Hober Snapshots:**
-    *   `20260213-0815Z-geopolitics-taiwan-rejects-40pct-chip-supply-chain-relocation-lutnick.md`
-    *   `20260214-0339Z-business-reddit-economics-taiwan-gdp-explosive-growth.md`
-    *   `20260214-0839Z-business-reddit-economics-taiwan-gdp-explosion.md`
-    *   `20260211-1618Z-geopolitics-ooda-loop-geotech-china-taiwan-dangerous-air-encounters.md` (General context for tensions)
+*   **CNBC:** [Taiwan Rejects US 40% Chip Supply Chain Relocation Target as "Impossible"](https://www.cnbc.com/2026/02/10/taiwan-chips-us-supply-chain-lutnick-trade-deal.html)
+*   **Reddit (r/Economics):** [Taiwan Reports Explosive 8.68% GDP Growth for 2025](https://www.reddit.com/r/Economics/)
+*   **OODA Loop:** [Geopolitics and Tech Analysis](https://www.oodaloop.com/topics/geopolitics/)
 *   **TSMC:** [Official Website](https://www.tsmc.com/)
 *   **US CHIPS Act:** [Relevant Government Resources](https://www.chips.gov/)
-*   **Geopolitical Analysis:** [OODA Loop - Geopolitics Feed](https://www.oodaloop.com/topics/geopolitics/)
-*   **Supply Chain Resilience:** [World Economic Forum - Supply Chains](https://www.weforum.org/topics/supply-chains)
+*   **World Economic Forum:** [Supply Chain Resilience](https://www.weforum.org/topics/supply-chains)
