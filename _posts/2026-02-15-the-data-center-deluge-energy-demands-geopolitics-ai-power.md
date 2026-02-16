@@ -66,4 +66,3 @@ The data center deluge is more than an IT challenge; it's a global strategic imp
 *   **OODA Loop:** [Energy and Technology Trends](https://www.oodaloop.com/topics/technology/energy/)
 *   **IRENA:** [International Renewable Energy Agency](https://www.irena.org/)
 *   **Geopolitics of Energy:** [Center on Global Energy Policy](https://www.energypolicy.columbia.edu/)
----

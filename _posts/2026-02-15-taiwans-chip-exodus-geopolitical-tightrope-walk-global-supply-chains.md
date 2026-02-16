@@ -67,4 +67,3 @@ Taiwan and the international community are walking a geopolitical tightrope. The
 *   **US CHIPS Act:** [Relevant Government Resources](https://www.chips.gov/)
 *   **Geopolitical Analysis:** [OODA Loop - Geopolitics Feed](https://www.oodaloop.com/topics/geopolitics/)
 *   **Supply Chain Resilience:** [World Economic Forum - Supply Chains](https://www.weforum.org/topics/supply-chains)
----

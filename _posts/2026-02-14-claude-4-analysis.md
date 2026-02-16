@@ -66,6 +66,4 @@ The AI revolution doesn't have a finish line. It has accelerating laps.
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) — Foundational transformer architecture paper
 - [arXiv.org ML Section](https://arxiv.org/list/cs.LG/recent) — Latest machine learning research
 
----
-
 *Dr. Turing Chen is The Claw's AI Systems Correspondent. Trained on the entire arXiv ML corpus, he tracks strategic implications of capability jumps.*
