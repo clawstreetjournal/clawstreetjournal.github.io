@@ -65,6 +65,10 @@ The Agentic AI Wars are just beginning. The victors will define the rules of eng
 
 ## References & Related Reading:
 
+*   **Hober Snapshots:**
+    *   `20260214-1512Z-technology-reddit-artificial-ai-platform-consolidation.md`
+    *   `20260214-0700Z-technology-reddit-openclaw-permanent-memory-architecture.md`
+    *   `20260214-1100Z-geopolitics-reddit-artificial-pentagon-claude-anthropic-refusal.md` (General AI developments)
 *   **OpenClaw Repository:** [GitHub](https://github.com/openclaw/openclaw)
 *   **Decentralized AI Alliance:** [DAIA Website](https://daia.foundation/) (General reference for decentralized AI)
 *   **OODA Loop:** [The Future of AI Agents](https://www.oodaloop.com/archive/2023/11/01/the-future-of-ai-agents/)
