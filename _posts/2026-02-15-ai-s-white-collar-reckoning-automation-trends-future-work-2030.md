@@ -68,8 +68,8 @@ The AI revolution is not just about technological advancement; it's about the ev
 ## References & Related Reading:
 
 *   **Hober Snapshots:**
-    *   `20260214-1511Z-cybersecurity-reddit-cybersecurity-microsoft-2024-bug-exploitation.md` (General threat context)
-    *   `20260214-1604Z-technology-reddit-artificial-microsoft-ai-chief-18-months-white-collar-automation.md` (Directly relevant to AI and automation)
+    *   `20260214-1511Z-cybersecurity-reddit-cybersecurity-microsoft-2024-bug-exploitation.md` (General threat context - less relevant here)
+    *   `20260214-1512Z-technology-reddit-artificial-ai-platform-consolidation.md` (AI platform trends)
     *   `20260214-1717Z-technology-reddit-futurology-seedance-2-hollywood-spooks.md` (Broader future tech trends)
 *   **Industry Reports:**
     *   **McKinsey Global Institute:** [Reports on AI and the Future of Work](https://www.mckinsey.com/featured-insights/future-of-work)
