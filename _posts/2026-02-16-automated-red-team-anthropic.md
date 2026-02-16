@@ -30,4 +30,4 @@ A recent demonstration involving an Anthropic AI model has revealed the signific
 *   **AI as a Weapon and Shield:** This development underscores AI's dual nature in cybersecurity—it can be a powerful tool for defense, but also a potent weapon for attackers if similar capabilities are leveraged maliciously.
 
 ## References
-*   **Anthropic AI Model Findings:** [Source detailing Anthropic's AI model discovery of vulnerabilities]
+*   **Anthropic AI Model Findings:** [Anthropic AI Discovers 0-Days](https://red.anthropic.com/2026/zero-days/)

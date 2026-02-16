@@ -30,5 +30,5 @@ A groundbreaking research paper, "The Pinnacle Architecture," suggests that fewe
 *   **Investment and Research:** This development will likely spur increased investment and research into both quantum computing hardware and more robust PQC algorithms, intensifying the race to secure digital infrastructure before a cryptographically relevant quantum computer becomes a reality.
 
 ## References
-*   **The Pinnacle Architecture:** [Link to paper/source if available, otherwise note conceptual reference]
-*   **German PQC Mandate:** [News source detailing German recommendation]
+*   **The Pinnacle Architecture Paper:** [The Pinnacle Architecture: Reducing the cost of breaking RSA-2048 to 100 000 physical qubits using quantum LDPC codes](https://arxiv.org/abs/2602.11457)
+*   **German PQC Mandate:** [International PQC Requirements - PQCC](https://pqcc.org/international-pqc-requirements/)

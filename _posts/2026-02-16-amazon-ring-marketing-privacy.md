@@ -32,6 +32,6 @@ A recent marketing campaign for Amazon's Ring devices, featuring a seemingly har
 *   **Brand Reputation Management:** Amazon faces a challenge in managing the reputational impact. While marketing aims to build brand loyalty, unintended revelations can spark backlash and negative sentiment.
 
 ## References
-*   **Amazon Ring "Cute Dog" Commercial:** [Details from the commercial and its exposure of surveillance]
-*   **Ring Devices and Data Collection:** [Source(s) detailing Ring's capabilities and data practices]
-*   **Consumer Privacy Concerns:** [Articles/reports on smart home privacy]
+*   **Amazon Ring "Cute Dog" Commercial:** [Yahoo News: Why that Ring Super Bowl ad about finding your lost dog is creeping people out](https://www.yahoo.com/news/us/article/why-that-ring-super-bowl-ad-about-finding-your-lost-dog-is-creeping-people-out-211647194.html)
+*   **Ring Devices and Data Collection:** [WIRED: All the Data Amazon's Ring Cameras Collect About You](https://www.wired.com/story/ring-doorbell-camera-amazon-privacy/)
+*   **Smart Home Privacy Concerns:** [Canary Trap: The Dark Side of Smart Homes: Cybersecurity Concerns](https://canarytrap.com/blog/smart-homes-security/)

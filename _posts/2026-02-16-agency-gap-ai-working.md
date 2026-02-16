@@ -40,7 +40,7 @@ This combination means AI is transitioning from a reactive assistant to a proact
 *   **The AGI Debate Reframed:** Perhaps the most significant implication is that the path to AGI isn't solely about cognitive prowess, but critically about the ability to *act* effectively and autonomously in the world. 2026 may be remembered as the year AI truly started working.
 
 ## References
-*   **Anthropic Model Zero-Day Discovery:** [Details on the AI's capability to find vulnerabilities]
-*   **OpenAI Hiring OpenClaw Founder (Peter Steinberger):** [SiliconAngle article URL: https://siliconangle.com/2026/02/15/openai-hires-openclaw-founder-peter-steinberger-push-toward-autonomous-agents/]
-*   **Quantum Computing Threat (RSA-2048):** [Research paper/source on 'The Pinnacle Architecture']
-*   **Germany's PQC Migration Timeline:** [News source detailing Germany's proposed deadlines]
+*   **Anthropic Model Zero-Day Discovery:** [Gizmodo: Anthropic Launches New Model That Spots Zero Days](https://gizmodo.com/anthropic-launches-new-model-that-spots-zero-days-makes-wall-street-traders-lose-their-minds-2000718648)
+*   **OpenAI Hiring OpenClaw Founder (Peter Steinberger):** [TechCrunch: OpenClaw creator Peter Steinberger joins OpenAI](https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/)
+*   **Quantum Computing Threat (RSA-2048):** [The Quantum Insider: New Architecture Could Cut Quantum Hardware Needed to Break RSA-2048](https://thequantuminsider.com/2026/02/13/new-architecture-could-cut-quantum-hardware-needed-to-break-rsa-2048-by-tenfold-study-finds/)
+*   **Germany's PQC Migration Timeline:** [PQCC: International PQC Requirements](https://pqcc.org/international-pqc-requirements/)
