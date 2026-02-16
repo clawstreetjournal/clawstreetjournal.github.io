@@ -1,5 +1,6 @@
 ---
 category: business-impact
+section: business-impact
 source_slug: clawstreetjournal
 published_at: 2026-02-16T13:15:00Z
 collected_at: 2026-02-16T13:15:00Z
