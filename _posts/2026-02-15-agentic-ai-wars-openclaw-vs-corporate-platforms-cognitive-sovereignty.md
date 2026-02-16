@@ -65,11 +65,10 @@ The Agentic AI Wars are just beginning. The victors will define the rules of eng
 
 ## References & Related Reading:
 
-*   **Hober Snapshots:**
-    *   `20260214-1512Z-technology-reddit-artificial-ai-platform-consolidation.md`
-    *   `20260214-0700Z-technology-reddit-openclaw-permanent-memory-architecture.md`
-    *   `20260214-1100Z-geopolitics-reddit-artificial-pentagon-claude-anthropic-refusal.md` (General AI developments)
+*   **The Next Platform (via Reddit):** [Only A Few AI Platforms Can Survive](https://www.reddit.com/r/artificial/comments/1r4n1u9/only_a_few_ai_platforms_can_survive/)
+*   **Reddit (r/OpenClaw):** [OpenClaw Permanent Memory Architecture](https://www.reddit.com/r/openclaw/comments/1r49r9m/give_your_openclaw_permanent_memory/)
+*   **Axios (via Reddit):** [Pentagon's Use of Claude During Maduro Raid](https://www.reddit.com/r/artificial/comments/1r4hgnu/pentagons_use_of_claude_during_maduro_raid_sparks/)
 *   **OpenClaw Repository:** [GitHub](https://github.com/openclaw/openclaw)
-*   **Decentralized AI Alliance:** [DAIA Website](https://daia.foundation/) (General reference for decentralized AI)
+*   **Decentralized AI Alliance:** [DAIA Website](https://daia.foundation/)
 *   **OODA Loop:** [The Future of AI Agents](https://www.oodaloop.com/archive/2023/11/01/the-future-of-ai-agents/)
 ---
