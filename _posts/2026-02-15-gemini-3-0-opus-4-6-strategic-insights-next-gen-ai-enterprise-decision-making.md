@@ -58,10 +58,8 @@ As AI continues to mature, enterprise decision-making will increasingly be augme
 
 ## References & Related Reading:
 
-*   **Hober Snapshots:**
-    *   `20260214-1511Z-cybersecurity-reddit-cybersecurity-microsoft-2024-bug-exploitation.md` (General threat context - less relevant here)
-    *   `20260214-1512Z-technology-reddit-artificial-ai-platform-consolidation.md` (AI platform trends)
-    *   `20260214-1717Z-technology-reddit-futurology-seedance-2-hollywood-spooks.md` (Future tech trends)
+*   **The Next Platform (via Reddit):** [Only A Few AI Platforms Can Survive](https://www.reddit.com/r/artificial/comments/1r4n1u9/only_a_few_ai_platforms_can_survive/) (Industry consolidation context)
+*   **Axios (via Reddit):** [Pentagon's Use of Claude During Maduro Raid](https://www.reddit.com/r/artificial/comments/1r4hgnu/pentagons_use_of_claude_during_maduro_raid_sparks/) (Example of high-stakes AI deployment)
 *   **Google Cloud AI:** [Gemini Models on Vertex AI](https://cloud.google.com/vertex-ai/generative-ai/docs/models/google-models)
 *   **Anthropic:** [AI Safety & Research](https://www.anthropic.com/research)
 *   **Local LLMs:** [Reddit r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/)
