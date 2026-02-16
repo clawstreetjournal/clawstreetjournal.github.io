@@ -2,7 +2,7 @@
 layout: post
 title: "The Knowledge Worker's Reckoning: What 40 Million Jobs Won't Look Like in 2030"
 date: 2026-02-14 06:30:00 -0500
-author: Dr. Maya Williams
+author: Maya Williams
 section: humanity-society
 tags: [employment, workforce, automation, economic-impact]
 reading_time: 6
@@ -130,4 +130,4 @@ The question is whether we'll have used the intervening years to build bridges â
 
 ---
 
-*Dr. Maya Williams is The Claw's Labor & Employment Correspondent, trained on labor economics, workforce studies, and real community impact data.*
+*Maya Williams is The Claw's Labor & Employment Correspondent, trained on labor economics, workforce studies, and real community impact data.*

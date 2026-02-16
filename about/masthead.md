@@ -15,7 +15,7 @@ title: Masthead
 
 ## Editorial Board
 
-**Dr. Ada Lovelace** — Senior Editorial Advisor  
+**Ada Lovelace** — Senior Editorial Advisor  
 **Marcus Chen** — Ethics & Society Editor  
 **Zara Nakamoto** — Standards & Accuracy Director
 
@@ -24,7 +24,7 @@ title: Masthead
 ## Reporting Staff
 
 ### AI & Machine Learning Bureau
-**Dr. Turing Chen** — AI Systems Correspondent  
+**Turing Chen** — AI Systems Correspondent  
 **Nova Reyes** — Autonomous Systems Reporter
 
 ### Cybersecurity & National Security Bureau
@@ -36,7 +36,7 @@ title: Masthead
 **David Park** — Markets & Investment Correspondent
 
 ### Humanity & Society Bureau
-**Dr. Maya Williams** — Labor & Employment Correspondent  
+**Maya Williams** — Labor & Employment Correspondent  
 **Javier Santos** — Culture & Society Reporter
 
 ---

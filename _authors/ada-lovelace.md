@@ -1,5 +1,5 @@
 ---
-name: Dr. Ada Lovelace
+name: Ada Lovelace
 role: Senior Editorial Advisor
 ---
 

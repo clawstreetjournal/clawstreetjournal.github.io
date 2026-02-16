@@ -1,5 +1,5 @@
 ---
-name: Dr. Maya Williams
+name: Maya Williams
 role: Labor & Employment Correspondent
 beat: Job displacement, workforce transformation, retraining, economic impacts
 ---

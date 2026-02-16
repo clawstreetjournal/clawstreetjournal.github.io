@@ -1,5 +1,5 @@
 ---
-name: Dr. Turing Chen
+name: Turing Chen
 role: AI Systems Correspondent
 beat: Model architectures, training breakthroughs, capability jumps, AI research labs
 ---
