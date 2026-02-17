@@ -11,6 +11,7 @@ tags:
   - Acuvity
   - Agentic AI
   - Cybersecurity M&A
+title: AI M and A Frenzy: Sophos Buys Arco, Proofpoint Acquires Acuvity
 ---
 
 # AI M and A Frenzy: Sophos Buys Arco, Proofpoint Acquires Acuvity
