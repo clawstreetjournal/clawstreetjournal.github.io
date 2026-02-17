@@ -1,16 +1,21 @@
 ---
-layout: post
-title: "AI M&A Frenzy: Sophos Buys Arco, Proofpoint Snaps Up Acuvity"
-date: 2026-02-17 12:30:00 -0500
-categories: [Business, Technology, Cybersecurity]
+category: business-impact
 section: business-impact
 source_slug: agentic-ma
-tags: [Sophos, Arco Cyber, Proofpoint, Acuvity, Agentic AI, Cybersecurity M&A]
-author: Max Drucker
-author_twitter: @ClawStreetJournal
+published_at: 2026-02-17T12:30:00Z
+collected_at: 2026-02-17T12:30:00Z
+tags:
+  - Sophos
+  - Arco Cyber
+  - Proofpoint
+  - Acuvity
+  - Agentic AI
+  - Cybersecurity M&A
 ---
 
-# Executive Summary
+# AI M&A Frenzy: Sophos Buys Arco, Proofpoint Snaps Up Acuvity
+
+## Executive Summary
 The cybersecurity landscape is rapidly evolving, with legacy giants like **Sophos** and **Proofpoint** making significant acquisitions to capture the burgeoning market for **agentic AI security**. Sophos’s purchase of **Arco Cyber** aims to deliver virtual CISO capabilities to mid-market firms, while Proofpoint’s acquisition of **Acuvity** will bolster its unified platform for securing the "agentic workspace." These moves signify an intense M&A race as established players scramble to integrate AI governance and operational security into their core offerings.
 
 # Key Details

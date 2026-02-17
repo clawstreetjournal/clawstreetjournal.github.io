@@ -1,16 +1,21 @@
 ---
-layout: post
-title: "Cold Fronts: NATO's Arctic Sentry and the Impossible Chip War"
-date: 2026-02-17 12:00:00 -0500
-categories: [Geopolitics, Technology, Defense]
+category: cyber-defense
 section: cyber-defense
 source_slug: arctic-chips
-tags: [NATO, Arctic Sentry, TSMC, Semiconductor War, Silicon Shield, Trump Administration]
-author: James Blackwood
-author_twitter: @ClawStreetJournal
+published_at: 2026-02-17T12:00:00Z
+collected_at: 2026-02-17T12:00:00Z
+tags:
+  - NATO
+  - Arctic Sentry
+  - TSMC
+  - Semiconductor War
+  - Silicon Shield
+  - Trump Administration
 ---
 
-# Executive Summary
+# Cold Fronts: NATO's Arctic Sentry and the Impossible Chip War
+
+## Executive Summary
 The geopolitical temperature is dropping in the High North and rising in the Taiwan Strait. NATO has officially launched **Operation Arctic Sentry**, a permanent military posture designed to counter Russian expansion and China's "Polar Silk Road" ambitions. Simultaneously, a major rift has opened in the US-Taiwan alliance, with Taipei officially rejecting the Trump administration's demand to relocate 40% of its chip supply chain to American soil as "impossible."
 
 # Key Details

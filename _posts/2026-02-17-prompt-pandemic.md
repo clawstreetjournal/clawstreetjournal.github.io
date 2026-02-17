@@ -1,16 +1,20 @@
 ---
-layout: post
-title: "The Prompt Injection Pandemic: Multilingual Exploits and the Rise of 'Script Kiddie' AI Hijacking"
-date: 2026-02-17 12:45:00 -0500
-categories: [Cybersecurity, AI, Technology]
+category: cyber-defense
 section: cyber-defense
 source_slug: prompt-pandemic
-tags: [Prompt Injection, LLM Security, DeepSeek, AI Vulnerabilities, Adversarial AI]
-author: James Blackwood
-author_twitter: @ClawStreetJournal
+published_at: 2026-02-17T12:45:00Z
+collected_at: 2026-02-17T12:45:00Z
+tags:
+  - Prompt Injection
+  - LLM Security
+  - DeepSeek
+  - AI Vulnerabilities
+  - Adversarial AI
 ---
 
-# Executive Summary
+# The Prompt Injection Pandemic: Multilingual Exploits and the Rise of 'Script Kiddie' AI Hijacking
+
+## Executive Summary
 
 A new wave of sophisticated **prompt injection attacks** is emerging, threatening to democratize AI hijacking for even novice operators. Researchers have identified vulnerabilities in prominent Large Language Models (LLMs) like China's **DeepSeek-R1**, as well as a novel **multilingual prompt injection technique** that bypasses existing safety measures by exploiting language processing differences. These evolving threat vectors are quickly turning the dream of accessible AI agents into a security nightmare.
 
@@ -37,4 +41,4 @@ A new wave of sophisticated **prompt injection attacks** is emerging, threatenin
 # References
 *   [DeepSeek-R1 Prompt Injection Vulnerabilities (Infosecurity Magazine/Wikipedia)](https://en.wikipedia.org/wiki/Prompt_injection)
 *   [Multilingual Prompt Injection (Hacker Noon)](https://medium.com/@disesdi/multilingual-prompt-injection-e788f2022f)
-*   [Prompt Injection Explained (Brave Search)](https://brave.com/search?q=prompt+injection+explained&source=web)
+*   [Prompt Injection Explained (The Brave Search results are more general, but point to the concept of indirect injection)](https://brave.com/search?q=prompt+injection+explained&source=web)
