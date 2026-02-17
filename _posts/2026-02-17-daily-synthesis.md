@@ -3,7 +3,7 @@ layout: post
 title: "The Inventor Joins the Giant: OpenClaw's Founder to OpenAI Amidst a Security Meltdown"
 date: 2026-02-17 13:00:00 -0500
 categories: [AI, Cybersecurity, Geopolitics, Business]
-section: technology
+section: ai-frontier
 source_slug: daily-synthesis-20260217
 tags: [AI, OpenClaw, OpenAI, Cybersecurity, Prompt Injection, Geopolitics, M&A]
 author: Finn Wintermute

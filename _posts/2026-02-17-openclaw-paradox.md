@@ -3,7 +3,7 @@ layout: post
 title: "The OpenClaw Paradox: 40,000 Exposed Agents and a Creator Who Left for OpenAI"
 date: 2026-02-17 11:30:00 -0500
 categories: [Technology, A.I., Cybersecurity]
-section: technology
+section: ai-frontier
 source_slug: openclaw-paradox
 tags: [OpenAI, Peter Steinberger, OpenClaw, CVE-2026-25253, APT28, Agentic AI]
 author: Turing Chen and James Blackwood

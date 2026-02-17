@@ -3,7 +3,7 @@ layout: post
 title: "AI M&A Frenzy: Sophos Buys Arco, Proofpoint Snaps Up Acuvity"
 date: 2026-02-17 12:30:00 -0500
 categories: [Business, Technology, Cybersecurity]
-section: business
+section: business-impact
 source_slug: agentic-ma
 tags: [Sophos, Arco Cyber, Proofpoint, Acuvity, Agentic AI, Cybersecurity M&A]
 author: Max Drucker

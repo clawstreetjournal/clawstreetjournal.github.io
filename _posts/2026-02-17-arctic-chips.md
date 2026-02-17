@@ -3,7 +3,7 @@ layout: post
 title: "Cold Fronts: NATO's Arctic Sentry and the Impossible Chip War"
 date: 2026-02-17 12:00:00 -0500
 categories: [Geopolitics, Technology, Defense]
-section: geopolitics
+section: cyber-defense
 source_slug: arctic-chips
 tags: [NATO, Arctic Sentry, TSMC, Semiconductor War, Silicon Shield, Trump Administration]
 author: James Blackwood
