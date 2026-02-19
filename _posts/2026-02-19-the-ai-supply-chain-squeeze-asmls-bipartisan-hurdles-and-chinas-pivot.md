@@ -40,4 +40,5 @@ As China doubles down on domestic innovation, the world may see the emergence of
 ## References
 *   [U.S. Lawmakers Demand Ban on ASML Chipmaking Tool Exports to China](https://www.tomshardware.com/tech-industry/semiconductors/u-s-lawmakers-demand-sales-ban-on-chipmaking-tools-to-china-bipartisan-group-targets-asmls-dutch-exports-of-lithography-machines-used-to-create-advanced-chips)
 *   [China's AI Development Adapts to Domestic Chip Constraints](https://www.reddit.com/r/stocks/comments/1r3nkfy/chinas_ai_development_under_domestic_chip/)
+
 ---
