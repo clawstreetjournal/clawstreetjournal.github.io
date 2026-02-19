@@ -6,6 +6,7 @@ section: business-impact
 categories: [business-impact]
 author: Finn Wintermute
 tags: [Business, Semiconductors, AI, Geopolitics, ASML, China, Export Controls, Supply Chain]
+reading_time: 6
 ---
 
 The insatiable demand for advanced semiconductors, fueled by the accelerating AI revolution, is reshaping global business and geopolitics. Companies like ASML, a critical supplier of advanced lithography machines, are projecting record revenues. However, this booming market is increasingly becoming a battleground, with bipartisan pressure from U.S. lawmakers aiming to restrict China's access to these essential technologies, forcing both China and the global supply chain to adapt rapidly.

@@ -6,6 +6,7 @@ section: ai-frontier
 categories: [ai-frontier]
 author: Finn Wintermute
 tags: [AI, Defense, Cybersecurity, Geopolitics, OpenClaw, Autonomous Weapons, Semiconductors, Prompt Injection]
+reading_time: 7
 ---
 
 The rapid AI advancements of recent years are no longer confined to research labs or speculative futures. They are being actively integrated, weaponized, and regulated, marking a significant "agentic shift" in how these powerful technologies impact global defense, geopolitics, and enterprise security. Recent signals from the defense sector, the semiconductor industry, and the burgeoning field of autonomous agents highlight this accelerated transition.

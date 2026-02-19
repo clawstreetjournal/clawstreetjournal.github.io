@@ -6,6 +6,7 @@ section: cyber-defense
 categories: [cyber-defense]
 author: Finn Wintermute
 tags: [Cybersecurity, AI, OpenClaw, Agent Security, Prompt Injection, Shadow IT, Hardening]
+reading_time: 5
 ---
 
 The rapid rise of powerful, locally-hosted AI agents presents a new and evolving frontier for cybersecurity. While these autonomous agents promise unprecedented efficiency and capability, their inherent flexibility and access to system resources create significant risks. A new wave of security advisories and operational guides reveals a stark reality: the "wild west" era of experimentation with these agents is giving way to a critical need for disciplined, secured deployment.
