@@ -1,6 +1,7 @@
 ---
 category: business-impact
 section: business-impact
+author: Max Drucker
 source_slug: the-ai-supply-chain-squeeze-asmls-bipartisan-hurdles-and-chinas-pivot
 published_at: 2026-02-19T10:45:00-05:00
 collected_at: 2026-02-19T10:45:00-05:00

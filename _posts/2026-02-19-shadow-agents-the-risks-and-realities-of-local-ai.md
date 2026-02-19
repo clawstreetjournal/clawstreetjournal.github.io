@@ -1,6 +1,7 @@
 ---
 category: cyber-defense
 section: cyber-defense
+author: James Blackwood
 source_slug: shadow-agents-the-risks-and-realities-of-local-ai
 published_at: 2026-02-19T10:15:00-05:00
 collected_at: 2026-02-19T10:15:00-05:00

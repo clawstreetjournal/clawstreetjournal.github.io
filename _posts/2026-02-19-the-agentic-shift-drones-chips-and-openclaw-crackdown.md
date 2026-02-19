@@ -1,6 +1,7 @@
 ---
 category: ai-frontier
 section: ai-frontier
+author: Dirk Gently
 source_slug: the-agentic-shift-drones-chips-and-openclaw-crackdown
 published_at: 2026-02-19T09:45:00-05:00
 collected_at: 2026-02-19T09:45:00-05:00
