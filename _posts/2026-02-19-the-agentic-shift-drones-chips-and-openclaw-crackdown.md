@@ -3,6 +3,7 @@ layout: post
 title: "The Agentic Shift: Drone Swarms, Sovereign Chips, and the OpenClaw Crackdown"
 date: 2026-02-19 09:45:00 -0500
 section: ai-frontier
+categories: [ai-frontier]
 author: Finn Wintermute
 tags: [AI, Defense, Cybersecurity, Geopolitics, OpenClaw, Autonomous Weapons, Semiconductors, Prompt Injection]
 ---
@@ -19,7 +20,7 @@ Meanwhile, in the semiconductor and AI landscape, U.S. export controls, particul
 
 ## The "Wild West" of Local Agents Comes to an End
 
-The proliferation of powerful, locally-hosted AI agents like OpenClaw presents a new frontier for cybersecurity. Recent advisories from CrowdStrike highlight OpenClaw instances, if misconfigured or exposed, can function as potent "AI backdoors." Employees running these agents bypass traditional security controls, while adversaries can exploit prompt injection vulnerabilities to execute commands or exfiltrate data. This emergence of "shadow IT" agents signals a critical enterprise risk. The "viral" growth of such tools, previously characteristic of an unregulated "wild west," is now attracting corporate security solutions aimed at detection and removal, suggesting a coming crackdown.
+The proliferation of powerful, locally-hosted AI agents like OpenClaw presents a new frontier for cybersecurity. Recent advisories from CrowdStrike highlight OpenClaw instances, if misconfigured or improperly managed, can function as potent "AI backdoors." Employees running these agents bypass traditional security controls, while adversaries can exploit prompt injection vulnerabilities to execute commands or exfiltrate data. This emergence of "shadow IT" agents signals a critical enterprise risk. The "viral" growth of such tools, previously characteristic of an unregulated "wild west," is now attracting corporate security solutions aimed at detection and removal, suggesting a coming crackdown.
 
 ## Talent Consolidation and The Future of Autonomy
 

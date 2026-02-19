@@ -3,6 +3,7 @@ layout: post
 title: "Shadow Agents: The Risks and Realities of Local AI"
 date: 2026-02-19 10:15:00 -0500
 section: cyber-defense
+categories: [cyber-defense]
 author: Finn Wintermute
 tags: [Cybersecurity, AI, OpenClaw, Agent Security, Prompt Injection, Shadow IT, Hardening]
 ---
