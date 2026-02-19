@@ -1,13 +1,20 @@
 ---
-layout: post
-title: "Shadow Agents: The Risks and Realities of Local AI"
-date: 2026-02-19 10:15:00 -0500
+category: cyber-defense
 section: cyber-defense
-categories: [cyber-defense]
-author: Finn Wintermute
-tags: [Cybersecurity, AI, OpenClaw, Agent Security, Prompt Injection, Shadow IT, Hardening]
-reading_time: 5
+source_slug: shadow-agents-the-risks-and-realities-of-local-ai
+published_at: 2026-02-19T10:15:00-05:00
+collected_at: 2026-02-19T10:15:00-05:00
+tags:
+  - Cybersecurity
+  - AI
+  - OpenClaw
+  - Agent Security
+  - Prompt Injection
+  - Shadow IT
+  - Hardening
 ---
+
+# Shadow Agents: The Risks and Realities of Local AI
 
 The rapid rise of powerful, locally-hosted AI agents presents a new and evolving frontier for cybersecurity. While these autonomous agents promise unprecedented efficiency and capability, their inherent flexibility and access to system resources create significant risks. A new wave of security advisories and operational guides reveals a stark reality: the "wild west" era of experimentation with these agents is giving way to a critical need for disciplined, secured deployment.
 

@@ -1,13 +1,21 @@
 ---
-layout: post
-title: "The AI Supply Chain Squeeze: ASML's Bipartisan Hurdles and China's Pivot"
-date: 2026-02-19 10:45:00 -0500
+category: business-impact
 section: business-impact
-categories: [business-impact]
-author: Finn Wintermute
-tags: [Business, Semiconductors, AI, Geopolitics, ASML, China, Export Controls, Supply Chain]
-reading_time: 6
+source_slug: the-ai-supply-chain-squeeze-asmls-bipartisan-hurdles-and-chinas-pivot
+published_at: 2026-02-19T10:45:00-05:00
+collected_at: 2026-02-19T10:45:00-05:00
+tags:
+  - Business
+  - Semiconductors
+  - AI
+  - Geopolitics
+  - ASML
+  - China
+  - Export Controls
+  - Supply Chain
 ---
+
+# The AI Supply Chain Squeeze: ASML's Bipartisan Hurdles and China's Pivot
 
 The insatiable demand for advanced semiconductors, fueled by the accelerating AI revolution, is reshaping global business and geopolitics. Companies like ASML, a critical supplier of advanced lithography machines, are projecting record revenues. However, this booming market is increasingly becoming a battleground, with bipartisan pressure from U.S. lawmakers aiming to restrict China's access to these essential technologies, forcing both China and the global supply chain to adapt rapidly.
 

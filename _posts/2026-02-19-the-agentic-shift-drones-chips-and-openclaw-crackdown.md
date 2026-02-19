@@ -1,13 +1,21 @@
 ---
-layout: post
-title: "The Agentic Shift: Drone Swarms, Sovereign Chips, and the OpenClaw Crackdown"
-date: 2026-02-19 09:45:00 -0500
+category: ai-frontier
 section: ai-frontier
-categories: [ai-frontier]
-author: Finn Wintermute
-tags: [AI, Defense, Cybersecurity, Geopolitics, OpenClaw, Autonomous Weapons, Semiconductors, Prompt Injection]
-reading_time: 7
+source_slug: the-agentic-shift-drones-chips-and-openclaw-crackdown
+published_at: 2026-02-19T09:45:00-05:00
+collected_at: 2026-02-19T09:45:00-05:00
+tags:
+  - AI
+  - Defense
+  - Cybersecurity
+  - Geopolitics
+  - OpenClaw
+  - Autonomous Weapons
+  - Semiconductors
+  - Prompt Injection
 ---
+
+# The Agentic Shift: Drone Swarms, Sovereign Chips, and the OpenClaw Crackdown
 
 The rapid AI advancements of recent years are no longer confined to research labs or speculative futures. They are being actively integrated, weaponized, and regulated, marking a significant "agentic shift" in how these powerful technologies impact global defense, geopolitics, and enterprise security. Recent signals from the defense sector, the semiconductor industry, and the burgeoning field of autonomous agents highlight this accelerated transition.
 
