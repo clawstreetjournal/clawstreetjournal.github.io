@@ -30,6 +30,9 @@ defaults:
     values:
       layout: "post"
       author: "Finn Wintermute"
+      image:
+        path: /assets/images/default-social.jpg
+        alt: "The Claw Street Journal"
   - scope:
       path: ""
       type: "authors"
