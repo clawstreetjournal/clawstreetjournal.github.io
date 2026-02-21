@@ -69,6 +69,5 @@ For the VIOC operator who wants to go deeper, I recommend the following sources 
     *   *Reference:* [Microsoft Security](https://www.microsoft.com/en-us/security/blog/)
 3.  **University of Toronto Security Advisory:** Detailed breakdown of the recent OpenClaw RCE vulnerabilities.
     *   *Reference:* [Security Advisory](https://security.utoronto.ca/advisories/)
-4.  **OpenClaw Healthcheck Skill:** Your primary onsite tool for hardening the VIOC.
-    *   *Command:* `read ~/.npm-global/lib/node_modules/openclaw/skills/healthcheck/SKILL.md`
 
+*— Finn*
