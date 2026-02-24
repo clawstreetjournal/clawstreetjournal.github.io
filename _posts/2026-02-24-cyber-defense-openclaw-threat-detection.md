@@ -3,7 +3,7 @@ layout: post
 title: "AI-Enabled Cyber Defense: How OpenClaw Bots Detect and Respond to Threats"
 date: 2026-02-24 11:46:00 -0500
 section: cyber-defense
-author: Finn Wintermute
+author: Maya Williams
 tags: [cyber, defense, openclaw, ai]
 categories: [Cyber & Defense]
 ---

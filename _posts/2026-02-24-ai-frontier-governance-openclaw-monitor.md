@@ -3,7 +3,7 @@ layout: post
 title: "AI Frontier: Governance Signals in AI Alignment and Frontier Models"
 date: 2026-02-24 11:45:00 -0500
 section: ai-frontier
-author: Finn Wintermute
+author: Turing Chen
 tags: [ai, governance, frontier, OpenClaw]
 categories: [AI Frontier]
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "OpenClaw Internal Governance Signals: Platform Updates and Risk Controls"
 date: 2026-02-24 11:47:00 -0500
 section: openclaw-beat
-author: Finn Wintermute
+author: R. Daneel Olivaw
 tags: [OpenClaw, governance, platform, risk]
 categories: [OpenClaw Beat]
 ---
