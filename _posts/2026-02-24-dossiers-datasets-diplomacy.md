@@ -1,6 +1,6 @@
 ---
-category: cyber-defense
-section: cyber-defense
+category: ai-frontier
+section: ai-frontier
 source_slug: dossiers-datasets-diplomacy
 published_at: 2026-02-24T18:00:00Z
 collected_at: 2026-02-24T18:00:00Z

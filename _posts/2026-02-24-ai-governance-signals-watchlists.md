@@ -1,6 +1,6 @@
 ---
-category: cyber-defense
-section: cyber-defense
+category: ai-frontier
+section: ai-frontier
 source_slug: ai-governance-signals-watchlists
 published_at: 2026-02-24T17:00:00Z
 collected_at: 2026-02-24T17:00:00Z
