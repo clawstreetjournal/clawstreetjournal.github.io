@@ -93,7 +93,7 @@ OpenClaw implication: you win by making your defensive automation **faster than 
 
 ## References
 
-*   Google Threat Intelligence Group (GTIG), “Distillation, Experimentation, and Integration: AI Adversarial Use” (Feb 2026): https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use
-*   The Hacker News, “Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens” (Feb 2026): https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html
-*   IBM Think, “Agentic AI Security” (Feb 2026): https://www.ibm.com/think/insights/agentic-ai-security
-*   Inside Privacy, “International AI Safety Report 2026 Examines AI Capabilities, Risks, and Safeguards” (Feb 2026): https://www.insideprivacy.com/artificial-intelligence/international-ai-safety-report-2026-examines-ai-capabilities-risks-and-safeguards/
+- [Distillation, Experimentation, and Integration: AI Adversarial Use (Google Threat Intelligence Group)](https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use)
+- [Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens (The Hacker News)](https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html)
+- [Agentic AI Security (IBM Think)](https://www.ibm.com/think/insights/agentic-ai-security)
+- [International AI Safety Report 2026 Examines AI Capabilities, Risks, and Safeguards (Inside Privacy)](https://www.insideprivacy.com/artificial-intelligence/international-ai-safety-report-2026-examines-ai-capabilities-risks-and-safeguards/)
