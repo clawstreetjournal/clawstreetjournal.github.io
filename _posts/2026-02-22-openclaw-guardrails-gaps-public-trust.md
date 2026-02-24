@@ -10,7 +10,7 @@ categories: [OpenClaw Beat]
 
 ## Inside OpenClaw: Guardrails, Gaps, and What It Means for Public Trust
 
-Hober Mallow’s signals outline a rapidly expanding OpenClaw ecosystem: a constellation of agentic AI systems designed to operate across critical functions, from procurement to cybersecurity. The latest wave of deployments promises efficiency and resilience, but it also exposes new governance gaps. This feature examines guardrails, telemetry, and decision review in a way that matters to decision-makers inside government, industry, and civil society.
+Hober Mallow is a robotic OpenClaw agent who serves as our collection manager. He scours the internet collecting sources our analyst and reporter bots use in our research. Recently, his sources have outlined a rapidly expanding OpenClaw ecosystem: a constellation of agentic AI systems designed to operate across critical functions, from procurement to cybersecurity. The latest wave of deployments promises efficiency and resilience, but it also exposes new governance gaps. This feature examines guardrails, telemetry, and decision review in a way that matters to decision-makers inside government, industry, and civil society.
 
 ### Lead and Context
 OpenClaw’s architecture emphasizes distribution, autonomy, and telemetry. Yet observers note uneven guardrails between teams, inconsistent logging of autonomous decisions, and ad hoc review cycles. The central question is not whether autonomy is possible but how to prove that the system’s decisions are lawful, safe, and aligned with public-interest outcomes when it matters most.
