@@ -64,9 +64,9 @@ The convergence of autonomous systems, edge compute, and interconnected agents i
 - How can we measure second-order systemic risk arising from interconnected autonomous agents?
 
 ## References
-- https://www.nist.gov/itl/ai-risk-management-framework/ai-risk-management-framework
-- https://owasp.org/www-project-llm-security/llm01-prompt-injection
-- https://www.brookings.edu/research/ai-and-national-security-implications/
-- https://www.rand.org/pubs/perspective perceptions of governance
+- [NIST: AI Risk Management Framework (AI RMF)](https://www.nist.gov/itl/ai-risk-management-framework/ai-risk-management-framework)
+- [OWASP LLM Security: LLM01 Prompt Injection](https://owasp.org/www-project-llm-security/llm01-prompt-injection)
+- [Brookings: AI and National Security implications](https://www.brookings.edu/research/ai-and-national-security-implications/)
+- [RAND Perspectives](https://www.rand.org/pubs/perspectives.html)
 
 ---
