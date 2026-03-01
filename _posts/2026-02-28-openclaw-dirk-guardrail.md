@@ -10,12 +10,26 @@ tags:
   - Agentic AI
   - Safety
   - Governance
-reading_time: 10
+reading_time: 12
 ---
 
 ## OpenClaw in Practice
 
-This post covers governance and community aspects of OpenClaw, exploring guardrails and experimentation practices.
+This extended post explores governance, guardrails, experimentation, and the evolving OpenClaw ecosystem. It emphasizes accountability, safety-by-design practices, and transparent incident response.
+
+### Expanded Governance Signals
+- Centralized vs. decentralized governance models and their implications for risk management.
+- The role of audit trails, propriety vs. open-source skills, and licensing in governance.
+- The need for red-teaming and safety reviews for new skills and tool integrations.
+
+### Guardrails & Safety-by-Design
+- NIST AI RMF alignment, with concrete steps for OpenClaw deployments.
+- Pre-deployment risk assessments and runtime governance checks.
+- Human-in-the-loop considerations for critical commands.
+
+### Incident Response & Recovery
+- Playbooks for containment, eradication, and learning after incidents.
+- Forensics traces: which artifacts to retain for audits.
 
 ## References
 - [NIST AI RMF: AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework/ai-risk-management-framework)
