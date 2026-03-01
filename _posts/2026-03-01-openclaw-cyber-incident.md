@@ -2,9 +2,9 @@
 category: cyber-defense
 section: cyber-defense
 author: Finn Wintermute
-source_slug: openclaw-cyber-incident
-published_at: 2026-03-01T00:29:00-05:00
-collected_at: 2026-03-01T00:29:00-05:00
+source_slug: openclaw-cyber-incident-draft
+published_at: 2026-03-01T00:00:00-05:00
+collected_at: 2026-03-01T00:00:00-05:00
 tags:
   - OpenClaw
   - Shadow AI
@@ -50,3 +50,5 @@ In early 2026, the OpenClaw ecosystem experienced a multi-vector security event 
 - [Microsoft: Running OpenClaw Safely — Identity, Isolation, Runtime Risk](https://www.microsoft.com/en-us/security/blog/2026/02/19/running-openclaw-safely-identity-isolation-runtime-risk/)
 - [Trend Micro: OpenClaw Skills and AMOS MacOS Stealer](https://www.trendmicro.com/en_us/research/26/b/openclaw-skills-used-to-distribute-atomic-macos-stealer.html)
 - [Conscia: The OpenClaw Security Crisis](https://conscia.com/blog/the-openclaw-security-crisis/)
+
+---
