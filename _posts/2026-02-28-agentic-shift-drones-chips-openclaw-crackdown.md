@@ -65,8 +65,9 @@ The convergence of autonomous systems, edge compute, and interconnected agents i
 
 ## References
 - [NIST: AI Risk Management Framework (AI RMF)](https://www.nist.gov/itl/ai-risk-management-framework/ai-risk-management-framework)
-- [OWASP LLM Security: LLM01 Prompt Injection](https://owasp.org/www-project-llm-security/llm01-prompt-injection)
-- [Brookings: AI and National Security implications](https://www.brookings.edu/research/ai-and-national-security-implications/)
-- [RAND Perspectives](https://www.rand.org/pubs/perspectives.html)
+- [OWASP GenAI Security Project: LLM01 Prompt Injection](https://genai.owasp.org/llmrisk/llm01-prompt-injection/)
+- [CSIS: DoD Directive 3000.09 and U.S. autonomous weapons policy](https://www.csis.org/analysis/dod-updating-its-decade-old-autonomous-weapons-policy-confusion-remains-widespread)
+- [CSET (Georgetown): Explainer on BIS October 2023 export control update (advanced computing)](https://cset.georgetown.edu/article/bis-2023-update-explainer/)
+- [Microsoft for Developers: Protecting against indirect prompt injection attacks in MCP](https://developer.microsoft.com/blog/protecting-against-indirect-injection-attacks-mcp)
 
 ---

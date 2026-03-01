@@ -20,8 +20,8 @@ reading_time: 12
 This post examines risk to business models in AI-enabled ecosystems, including sovereignty considerations, pricing, and resilience planning.
 
 ## References
-- [Chainalysis: Ransomware trends](https://www.chainalysis.com)
-- [Council on Foreign Relations: AI and National Security implications](https://www.cfr.org/research/ai-and-national-security-implications/)
-- [RAND: AI governance and policy research](https://www.rand.org/pubs/perspective.html)
+- [NIST AI RMF](https://www.nist.gov/itl/ai-risk-management-framework/ai-risk-management-framework)
+- [Brookings: AI and National Security implications](https://www.brookings.edu/research/ai-and-national-security-implications/)
+- [RAND Perspectives](https://www.rand.org/pubs/perspectives.html)
 
 ---

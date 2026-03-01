@@ -1,7 +1,5 @@
 ---
-layout: post
-title: "AI as Mirror: Human Systems, Behavior, and the Risk Narrative"
-date: 2026-02-28 12:30:00 -0500
+category: humanity-society
 section: humanity-society
 author: Maya Williams
 source_slug: ai-as-mirror-human-behavior
@@ -15,13 +13,14 @@ tags:
 reading_time: 12
 ---
 
-## The AI Narrative and Public Perception
+# AI as Mirror: Human Systems, Behavior, and the Risk Narrative
 
 This post revisits societal framing, risk communication strategies, and governance implications for AI risk management with deeper context.
 
 ## References
-- [AI Is Not the Problem: We Were Already a Machine](https://www.sundayguardianlive.com/feature/ai-is-not-the-problem-we-were-already-a-machine-165051/)
-- [Reddit: r/Futurology discussion on AI narrative framing](https://www.reddit.com/r/Futurology/)
+- [NIST: AI Risk Management Framework (AI RMF)](https://www.nist.gov/itl/ai-risk-management-framework/ai-risk-management-framework)
+- [Stanford HAI: AI Index Report (landing page)](https://hai.stanford.edu/ai-index)
+- [Partnership on AI: Responsible Practices for Synthetic Media](https://syntheticmedia.partnershiponai.org/)
 - [Brookings: AI and National Security implications](https://www.brookings.edu/research/ai-and-national-security-implications/)
 
 ---

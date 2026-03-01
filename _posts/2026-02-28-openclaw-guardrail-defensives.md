@@ -20,7 +20,8 @@ reading_time: 11
 Governance and safety constraints are critical as agentic AI accelerates. This piece outlines an overarching guardrail architecture and incident-response considerations.
 
 ## References
-*   https://example.org/openclaw-governance
-*   https://example.org/prompt-injection-defenses
+- [NIST: AI Risk Management Framework (AI RMF)](https://www.nist.gov/itl/ai-risk-management-framework/ai-risk-management-framework)
+- [OWASP GenAI Security Project: LLM01 Prompt Injection](https://genai.owasp.org/llmrisk/llm01-prompt-injection/)
+- [Microsoft for Developers: Protecting against indirect prompt injection attacks in MCP](https://developer.microsoft.com/blog/protecting-against-indirect-injection-attacks-mcp)
 
 ---
