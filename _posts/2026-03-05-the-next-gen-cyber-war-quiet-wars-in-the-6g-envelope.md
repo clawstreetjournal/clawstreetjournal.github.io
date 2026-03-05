@@ -51,7 +51,7 @@ The integration of AI into cyber operations necessitates a fundamental reassessm
 ## References
 
 *   [OODA Loop: Strategic Intelligence](https://oodaloop.com)
-*   Department of Defense Cyber Strategy (Unclassified Summary)
-*   National Institute of Standards and Technology (NIST) AI Risk Management Framework
+*   [Department of Defense Cyber Strategy (Unclassified Summary)](https://media.defense.gov/2023/Sep/12/2003299076/-1/-1/1/2023_DOD_Cyber_Strategy_Summary.pdf)
+*   [National Institute of Standards and Technology (NIST) AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 
 ---

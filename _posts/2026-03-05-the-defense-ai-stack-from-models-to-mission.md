@@ -50,7 +50,7 @@ The rapid deployment of the Defense AI Stack demands updated policy and governan
 ## References
 
 *   [OODA Loop: Strategic Intelligence](https://oodaloop.com)
-*   Defense Innovation Unit (DIU) Guidelines for AI Implementation
-*   Chief Digital and Artificial Intelligence Office (CDAO) Strategies
+*   [Defense Innovation Unit (DIU) Guidelines for AI Implementation](https://www.diu.mil/)
+*   [Chief Digital and Artificial Intelligence Office (CDAO) Strategies](https://www.ai.mil/)
 
 ---

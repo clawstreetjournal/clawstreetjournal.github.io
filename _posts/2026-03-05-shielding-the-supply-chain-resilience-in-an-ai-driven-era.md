@@ -51,7 +51,7 @@ The integration of AI into supply chain management introduces new governance and
 ## References
 
 *   [OODA Loop: Strategic Intelligence](https://oodaloop.com)
-*   Cybersecurity and Infrastructure Security Agency (CISA) Supply Chain Risk Management Guidelines
-*   Department of Defense Supply Chain Posture Reports
+*   [Cybersecurity and Infrastructure Security Agency (CISA) Supply Chain Risk Management Guidelines](https://www.cisa.gov/supply-chain-risk-management)
+*   [Department of Defense Supply Chain Posture Reports](https://www.defense.gov/Newsroom/)
 
 ---
