@@ -1,4 +1,5 @@
 ---
+layout: post
 category: business-impact
 section: business-impact
 author: Max Drucker
@@ -16,8 +17,7 @@ reading_time: 4
 
 # The Open-Source AI Arms Race: What CIOs Need to Know in 2026
 
-As AI tooling becomes core to operations, organizations face a strategic choice: embrace open-source foundations or lean on vendored platforms. This piece outlines the key decision points for CIOs and how to balance innovation with risk.
-
+Executive summary
 The open-source AI ecosystem is expanding rapidly, reshaping decision-making for governance, risk, and value creation. CIOs must navigate tradeoffs between speed to value, transparency, security, licensing, and ecosystem vitality.
 
 ## Why open-source matters for enterprise AI
@@ -26,7 +26,7 @@ Open-source models and tooling enable unprecedented transparency, customization,
 
 ## Risks and guardrails
 
-Security and supply chain risk are paramount. Provenance, reproducibility, and formal vetting of model weights and datasets are critical. Furthermore, licensing and compliance teams must understand licenses (e.g., copyleft vs. permissive) and how they affect enterprise deployment and code reuse. Lastly, talent and governance structures must ensure clear ownership, model versioning, and decision rights for AI products.
+Security and supply chain risk are paramount. Provenance, reproducibility, and formal vetting of model weights and datasets are critical. Furthermore, licensing and compliance teams must understand licenses (e.g., copyleft vs permissive) and how they affect enterprise deployment and code reuse. Lastly, talent and governance structures must ensure clear ownership, model versioning, and decision rights for AI products.
 
 ## Practical playbook for executives
 

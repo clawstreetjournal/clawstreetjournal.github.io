@@ -1,8 +1,9 @@
 ---
+layout: post
 category: cyber-defense
 section: cyber-defense
 author: Samira Osman
-source_slug: the-next-wave-of-space-enabled-defense-and-security
+source_slug: space-enabled-defense-security-wave-2026
 published_at: 2026-03-15T09:00:00-05:00
 collected_at: 2026-03-15T08:00:00-05:00
 tags:
@@ -15,12 +16,10 @@ reading_time: 5
 
 # The Next Wave of Space-Enabled Defense and Security
 
-Space infrastructure is increasingly central to national security. This piece outlines emerging architectures, risk considerations, and policy implications for the next decade.
-
+Executive summary
 Space assets and on-orbit processing are transforming defense and intelligence workflows. This piece surveys architectures, risk considerations, and policy implications as space becomes an active domain of competition and cooperation.
 
 ## Introduction
-
 Space is no longer a pure domain of satellites with distant downlinks. Constellations, on-orbit processing, and resilient links elevate space from a domain of exploration to a fundamental enabler of national security.
 
 ## Emerging Architectures
@@ -47,5 +46,3 @@ Space-enabled defense will shape modern warfare, deterrence, and national securi
 
 ## References
 *   [OODA Loop: Space and National Security Intelligence](https://oodaloop.com)
-
----
