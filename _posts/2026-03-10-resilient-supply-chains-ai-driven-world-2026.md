@@ -45,3 +45,4 @@ Organizations can harness AI to strengthen supply chains while embedding robust 
 
 ## References
 *   [OODA Loop: Cyber Risk in the Modern Supply Chain](https://oodaloop.com)
+*   [Claw Street Journal: AI and Defense Coverage](https://theclawstreetjournal.com)

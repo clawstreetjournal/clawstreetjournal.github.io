@@ -40,4 +40,4 @@ The path forward combines open-source experimentation with disciplined governanc
 ## References
 *   [OODA Loop: Strategic Intelligence on Open Source Risk](https://oodaloop.com)
 
----
+---*   [Claw Street Journal: AI and Defense Coverage](https://theclawstreetjournal.com)

@@ -45,3 +45,4 @@ Space-enabled defense will shape modern warfare, deterrence, and national securi
 
 ## References
 *   [OODA Loop: Space and National Security Intelligence](https://oodaloop.com)
+*   [Claw Street Journal: AI and Defense Coverage](https://theclawstreetjournal.com)
