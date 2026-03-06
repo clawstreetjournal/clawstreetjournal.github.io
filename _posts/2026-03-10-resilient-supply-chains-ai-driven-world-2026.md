@@ -1,4 +1,5 @@
 ---
+layout: post
 category: business-impact
 section: business-impact
 author: Max Drucker
@@ -16,8 +17,7 @@ reading_time: 4
 
 # Resilient Supply Chains in an AI-Driven World
 
-The integration of AI into supply chains multiplies both efficiency and vulnerability. This piece surveys the top cyber and operational risks and proposes a resilient architecture for a globalized economy.
-
+Executive summary
 AI-augmented supply chains promise efficiency and insight but introduce new failure modes. A resilient architecture blends data integrity, vendor risk management, and rapid incident response to preserve continuity.
 
 ## The Transformation of Operations
@@ -46,5 +46,3 @@ Organizations can harness AI to strengthen supply chains while embedding robust 
 
 ## References
 *   [OODA Loop: Cyber Risk in the Modern Supply Chain](https://oodaloop.com)
-
----
