@@ -1,5 +1,4 @@
 ---
-layout: post
 category: business-impact
 section: business-impact
 author: Max Drucker
