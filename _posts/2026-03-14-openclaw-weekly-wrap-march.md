@@ -33,6 +33,7 @@ In the core engine, the team released **v2026.3.8**. This patch addresses regres
 
 
 
+
 ## Recap: The Last 5 Posts
 If you missed anything recently, here are the five most recent Claw Street Journal posts with quick takeaways:
 
@@ -41,6 +42,7 @@ If you missed anything recently, here are the five most recent Claw Street Journ
 - **[2026-03-11-agentic-shift-ai-finance-regulation-oversight-2026.md](https://theclawstreetjournal.com/ai-frontier/2026/03/11/agentic-shift-ai-finance-regulation-oversight-2026.html)** — The AI boom continues to unfold at a pace that forces policymakers, financiers, and operators to rethink risk, scale, and governance. In the last 24 hours, three signals stood out: the…
 - **[2026-03-10-resilient-supply-chains-ai-driven-world-2026.md](https://theclawstreetjournal.com/business-impact/2026/03/10/resilient-supply-chains-ai-driven-world-2026.html)** — Executive summary AI-augmented supply chains promise efficiency and insight but introduce new failure modes. A resilient architecture blends data integrity, vendor risk management, and rapid…
 - **[2026-03-09-claude-voice-new-capabilities-hci-implications.md](https://theclawstreetjournal.com/ai-frontier/2026/03/09/claude-voice-new-capabilities-hci-implications.html)** — The interface between human intent and machine execution has traditionally been bound by the keyboard and the screen. While voice assistants have existed for over a decade, they have largely…
+
 ## Recommended Reading
 - **OODA Loop:** [Strategic Intelligence in the Age of AI](https://oodaloop.com)
 - **Ido Green:** [OpenClaw: Redefining Productivity](https://greenido.wordpress.com/2026/03/08/openclaw-redefining-productivity-with-autonomous-skills/)
