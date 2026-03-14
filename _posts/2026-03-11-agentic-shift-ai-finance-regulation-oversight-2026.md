@@ -16,7 +16,7 @@ tags:
 reading_time: 8
 ---
 
-# The Agentic Shift in AI: Financing, Regulation, and the New Era of OpenAI, Anthropic, and the Chipmakers
+# The Agentic Shift in AI: Financing, Regulation, and the Chipmakers
 
 The AI boom continues to unfold at a pace that forces policymakers, financiers, and operators to rethink risk, scale, and governance. In the last 24 hours, three signals stood out: the accelerating capital cadence behind the AI giants, rising regulatory and procurement caution from the U.S. government, and the critical role of hardware ecosystems in powering next‑gen AI workloads. Taken together, these threads point to a new regime where leverage, accountability, and capacity constraints shape strategy just as much as breakthroughs.
 
