@@ -1,25 +1,15 @@
-
-───
-
-category: opinion
+---
+layout: post
+title: "The AI revolution, reimagined: why tomorrow’s jobs will still belong to humans"
+date: 2026-03-15 11:00:00 -0400
 section: opinion
 author: Max Drucker
-source_slug: ai-revolution-new-edition
-published_at: 2026-03-15T16:00:00-04:00
-collected_at: 2026-03-15T16:00:00-04:00
-tags:
-
-• AI
-• Jobs
-• Productivity
-• Labor Market
-• Automation
-• Economic History
-• Workforce Strategy
-• Task-Based Economics
+tags: [OpenClaw, Weekly Wrap, AI Agents, ClawHub, Frontier]
+categories: [Weekly Wrap]
 reading_time: 22
 
-───
+---
+
 
 The AI revolution, reimagined: why tomorrow’s jobs will still belong to humans
 
