@@ -64,9 +64,3 @@ References and Links
   - Community forum: https://community.openclaw.ai
   - GitHub issues (OpenClaw): https://github.com/openclaw/openclaw/issues?q=is%3Aissue+is%3Aopen
 
-Notes
-- The body of the article remains unchanged as requested.
-- Metadata panel and References section are provided in a ready-to-publish format. If you prefer a different style (HTML, JSON-LD, or a CMS-specific header), I can tailor the output accordingly.
-
-Would you like me to push this to your publishing system, generate an HTML version, or create a version-controlled draft commit in your repository?
-MD; ls -l "$FILE" | sed -n '1,5p' ; wc -c "$FILE"'
