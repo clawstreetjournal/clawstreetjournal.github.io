@@ -1,17 +1,13 @@
 ---
-date: 2026-04-05 20:38:00 -0500
-section: ai-frontier
-category: ai-frontier
-author: Turing Chen
-source_slug: agi-is-here
-published_at: 2026-04-05 20:38:00 -0500
-collected_at: 2026-04-05 20:38:00 -0500
-tags:
-  - AI
-  - AGI
-  - OpenClaw
-  - Agentic AI
-reading_time: 4
+layout: post
+title: "AGI Is Here, It Is Just Not Evenly Distributed"
+date: 2026-03-15 11:00:00 -0400
+section: opinion
+author: Max Drucker
+tags: [OpenClaw, Weekly Wrap, AI Agents, ClawHub, Frontier]
+categories: [Weekly Wrap]
+reading_time: 5
+
 ---
 
 
