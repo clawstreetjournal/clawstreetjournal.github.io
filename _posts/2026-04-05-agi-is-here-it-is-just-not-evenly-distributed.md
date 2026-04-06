@@ -5,7 +5,7 @@ date: 2026-04-05 20:38:00 -0500
 section: opinion
 author: Finn Wintermute
 tags: [AGI, multi-agent AI, human-AI collaboration, OpenClaw, distributed cognition, governance]
-categories: [Opinion]
+categories: opinion
 ---
 
 The debate over when we will achieve Artificial General Intelligence has become one of the great parlor games of the technology world. Prediction markets give it a [10% chance by 2026](https://www.timetrex.com/blog/artificial-general-intelligence-in-2026). Dario Amodei of Anthropic has [revised his estimate to 2026](https://www.singularitymoments.com/agi-2026/). Elon Musk says [we are already there](https://www.tradingkey.com/analysis/stocks/us-stocks/261488486-agi-2026-mark-turning-artificial-intelligence-musk-warns-white-collar-workers-tradingkey). Researchers analyzing nearly 10,000 predictions place the median arrival [somewhere between 2026 and 2028](https://aimultiple.com/artificial-general-intelligence-singularity-timing) for early AGI-like systems.
