@@ -19,7 +19,7 @@ reading_time: 7
 
 The big consulting firms have been loudly advertising their AI transformations for two years. McKinsey built Lilli, an internal AI platform that [reportedly saves consultants 30% of their time](https://futureofconsulting.ai/ai-leadership/2026-consultings-ai-revolution-update/) on research and knowledge synthesis. Deloitte, Accenture, and BCG have each invested billions in AI tooling. Every major firm has an AI story.
 
-Here is what they will not tell you: the boutique firm across the street can now access equivalent analytical horsepower for a fraction of the cost — and in some ways, can move faster than its larger competitors.
+Here is what they will not tell you: Those big firms are still slow to move. They don't have the agility of the smaller players. And there are so many examples of them getting it wrong with AI. That Lilli app from McKinsey, for example, was deployed with very little thought to security and data protection, resulting in a huge black eye for the firm. Meanwhile the boutique firm across the street can now access equivalent analytical horsepower for a fraction of the cost — and in some ways, can move faster than its larger competitors.
 
 The window is open. The question is whether small consultancies will step through it.
 
