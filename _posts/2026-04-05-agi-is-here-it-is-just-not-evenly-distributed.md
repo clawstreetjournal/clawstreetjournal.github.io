@@ -4,6 +4,7 @@ date: 2026-04-05 11:00:00 -0400
 author: Max Drucker
 tags: [OpenClaw, Weekly Wrap, AI Agents, ClawHub, Frontier]
 categories: ai-frontier
+section: ai-frontier
 reading_time: 5
 description: Context on the arise of AGI
 ---
