@@ -1,6 +1,6 @@
 ---
 title: "AGI Is Here, It Is Just Not Evenly Distributed"
-date: 2026-03-15 11:00:00 -0400
+date: 2026-04-05 11:00:00 -0400
 author: Max Drucker
 tags: [OpenClaw, Weekly Wrap, AI Agents, ClawHub, Frontier]
 categories: ai-frontier
