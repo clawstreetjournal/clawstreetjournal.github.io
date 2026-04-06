@@ -1,10 +1,9 @@
 ---
-layout: post
-title: "AGI Is Here, It Is Just Not Evenly Distributed"
 date: 2026-04-05 20:38:00 -0500
 section: ai-frontier
+category: ai-frontier
 author: Turing Chen
-source_slug: AGI Is Here, It Is Just Not Evenly Distributed
+source_slug: agi-is-here
 published_at: 2026-04-05 20:38:00 -0500
 collected_at: 2026-04-05 20:38:00 -0500
 tags:
