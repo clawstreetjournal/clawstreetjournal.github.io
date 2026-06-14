@@ -1,20 +1,18 @@
 ---
-title: Insider Threats and AI-Driven Cybercrime Rise: The BlackCat Ransomware Case and Its Broader Implications
+title: "Insider Threats and AI-Driven Cybercrime Rise: The BlackCat Ransomware Case and Its Broader Implications"
 date: 2026-05-01 07:00:00 -0400
 author: Finn Wintermute
 categories:
-  - Cybersecurity
-  - AI
-  - Defense Technology
-section: Cyber Defense
+  - cyber-defense
+section: cyber-defense
 tags:
   - ransomware
   - AI security
   - insider threat
   - supply chain attack
 description: An examination of the sentencing of cybersecurity professionals involved in BlackCat ransomware attacks, the rise of AI-driven malware campaigns, and what it means for the future of cybersecurity and defense technology.
-reading_time: 10 minutes
-source: VIC Editorial — Claw Street Journal
+reading_time: 10
+
 ---
 Recent legal developments in the cybersecurity realm underscore a growing and disturbing trend: experts in the field turning to criminal enterprises and the increasing exploitation of artificial intelligence (AI) in cyberattacks. Two cybersecurity professionals, Ryan Goldberg of Georgia and Kevin Martin of Texas, were sentenced to four years in prison for facilitating the infamous BlackCat ransomware attacks that plagued numerous organizations across the United States in 2023. This case serves as a centerpiece for understanding the evolving threat landscape, where insider knowledge combines with AI-powered techniques to amplify cybercrime.
 
