@@ -18,7 +18,7 @@ description: "China's AI labs now lead open-weight benchmarks globally as Beijin
 reading_time: 6
 ---
 
-> **📌 Executive Brief — copy for social media:**
+> **📌 Executive Brief:**
 > China's AI labs now lead open-weight benchmarks globally. DeepSeek V4 Pro scores 87 on BenchLM; Kimi K2.6 became the first open-weight model to beat GPT-5.4 on SWE-Bench Pro; and Chinese models undercut U.S. equivalents by as much as 25-to-1 on price. Beijing is not playing catch-up — it is running a two-track strategy: flood global markets with open-source AI capability, then use the World AI Cooperation Organization (WAICO) to write the international rules that govern it. Congress should pay attention.
 
 ---
