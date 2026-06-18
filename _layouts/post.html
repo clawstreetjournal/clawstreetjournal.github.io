@@ -8,17 +8,17 @@ layout: default
     <div class="post-meta">
       <span class="byline">By 
         {% if page.authors %}
-          {% for slug in page.authors %}
-            {% assign person = site.authors | where: "slug", slug | first %}
+          {% for name in page.authors %}
+            {% assign person = site.authors | where: "name", name | first %}
             {% if person %}
               <a href="{{ person.url | relative_url }}">{{ person.name }}</a>
             {% else %}
-              {{ slug }}
+              {{ name }}
             {% endif %}
             {% unless forloop.last %} and {% endunless %}
           {% endfor %}
         {% else %}
-          {% assign person = site.authors | where: "slug", page.author | first %}
+          {% assign person = site.authors | where: "name", page.author | first %}
           {% if person %}
             <a href="{{ person.url | relative_url }}">{{ person.name }}</a>
           {% else %}
