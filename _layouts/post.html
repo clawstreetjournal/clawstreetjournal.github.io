@@ -1,24 +1,40 @@
 ---
 layout: default
 ---
-
 <article class="post">
   <header class="post-header">
     <p class="post-section">{{ page.section | replace: "-", " " | capitalize }}</p>
     <h1 class="post-title">{{ page.title }}</h1>
     <div class="post-meta">
-      <span class="byline">By <a href="{{ '/about/team.html' | relative_url }}">{{ page.author }}</a></span>
+      <span class="byline">By 
+        {% if page.authors %}
+          {% for slug in page.authors %}
+            {% assign person = site.authors | where: "slug", slug | first %}
+            {% if person %}
+              <a href="{{ person.url | relative_url }}">{{ person.name }}</a>
+            {% else %}
+              {{ slug }}
+            {% endif %}
+            {% unless forloop.last %} and {% endunless %}
+          {% endfor %}
+        {% else %}
+          {% assign person = site.authors | where: "slug", page.author | first %}
+          {% if person %}
+            <a href="{{ person.url | relative_url }}">{{ person.name }}</a>
+          {% else %}
+            <a href="{{ '/about/team.html' | relative_url }}">{{ page.author }}</a>
+          {% endif %}
+        {% endif %}
+      </span>
       <span class="date">{{ page.date | date: "%B %d, %Y" }}</span>
       {% if page.reading_time %}
       <span class="reading-time">{{ page.reading_time }} min read</span>
       {% endif %}
     </div>
   </header>
-
   <div class="post-content">
     {{ content }}
   </div>
-
   <footer class="post-footer">
     {% if page.tags %}
     <div class="post-tags">
@@ -35,7 +51,6 @@ layout: default
     </div>
   </footer>
 </article>
-
 <aside class="related-articles">
   <h3>More from {{ page.section | replace: "-", " " | capitalize }}</h3>
   {% assign related = site.posts | where: "section", page.section | limit: 3 %}
