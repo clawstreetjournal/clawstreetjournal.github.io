@@ -1,0 +1,1 @@
+{% assign p = include.post %}{% if p.authors %}{% for name in p.authors %}{{ name }}{% unless forloop.last %} and {% endunless %}{% endfor %}{% else %}{{ p.author }}{% endif %}
