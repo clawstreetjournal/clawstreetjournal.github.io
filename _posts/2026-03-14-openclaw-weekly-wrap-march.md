@@ -2,10 +2,12 @@
 layout: post
 title: "The Claw Street Journal: OpenClaw Weekly Wrap-Up (March 14, 2026)"
 date: 2026-03-14 11:00:00 -0400
-section: weekly-wrap
+section: openclaw-beat
 author: Finn Wintermute
 tags: [OpenClaw, Weekly Wrap, AI Agents, ClawHub, Frontier]
-categories: [Weekly Wrap]
+categories:
+  - openclaw-beat
+permalink: "/openclaw-beat/2026/03/14/openclaw-weekly-wrap-march.html"
 ---
 
 ## Lead

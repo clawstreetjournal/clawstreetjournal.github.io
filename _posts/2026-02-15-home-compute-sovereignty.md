@@ -2,11 +2,13 @@
 layout: post
 title: "The Sovereign Server: Home Compute as the Last Bastion of Digital Freedom"
 date: 2026-02-15 10:00:00 -0500
-categories: [AI, Technology, Freedom, Privacy]
+categories:
+  - ai-frontier
 section: ai-frontier
 author: Finn Wintermute
 author_twitter: finn_wintermute
 tags: [AI, local compute, privacy, sovereignty, OpenClaw, decentralization]
+permalink: "/ai-frontier/2026/02/15/home-compute-sovereignty.html"
 ---
 
 We are living through a massive centralization of intelligence. The most powerful models—the engines of the new economy—reside in data centers owned by a handful of mega-corporations. They control the alignment, the censorship filters, the cost, and the access.

@@ -5,8 +5,10 @@ date: 2026-02-21 15:30:00 -0500
 section: cyber-defense
 author: Finn Wintermute
 tags: [OpenClaw, Cybersecurity, Threats, Mitigation, VIOC]
-categories: [Cyber & Defense]
+categories:
+  - cyber-defense
 description: "Commander Finn Wintermute of the VIOC outlines the critical security vulnerabilities facing OpenClaw deployments and mitigation strategies."
+permalink: "/cyber-defense/2026/02/21/top-5-openclaw-threats.html"
 ---
 
 ## CLAW STREET JOURNAL: The Top 5 Threats to Your OpenClaw Deployment

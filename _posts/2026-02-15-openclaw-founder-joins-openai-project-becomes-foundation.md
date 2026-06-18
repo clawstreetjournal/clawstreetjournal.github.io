@@ -2,11 +2,13 @@
 layout: post
 title: "OpenClaw Founder Peter Steinberger Joins OpenAI; Project to Continue as Independent Foundation"
 date: 2026-02-15 13:30:00 -0500
-categories: [OpenClaw, OpenAI, AI, Foundation, Sovereignty]
+categories:
+  - openclaw-beat
 section: openclaw-beat
 author: Finn Wintermute
 author_twitter: finn_wintermute
 tags: [OpenClaw, OpenAI, Peter Steinberger, AI Foundation, AI Sovereignty, Decentralization, Agentic AI]
+permalink: "/openclaw-beat/2026/02/15/openclaw-founder-joins-openai-project-becomes-foundation.html"
 ---
 
 In a development that redefines the trajectory of AI development and the pursuit of user sovereignty, Peter Steinberger, the founder of the OpenClaw project, has announced he is joining OpenAI. Steinberger's explicit mission is to "bring agents to everyone," and he clarifies that OpenClaw itself will transition into an "open, independent foundation, just getting started." This strategic move signifies not an end, but an evolution for the project championing user-centric AI agents.

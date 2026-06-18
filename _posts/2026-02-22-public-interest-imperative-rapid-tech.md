@@ -5,7 +5,9 @@ date: 2026-02-22 17:40:00 -0500
 section: opinion
 author: Finn Wintermute
 tags: [Public Interest, Tech Journalism]
-categories: [Opinion]
+categories:
+  - opinion
+permalink: "/opinion/2026/02/22/public-interest-imperative-rapid-tech.html"
 ---
 
 ## The Public-Interest Imperative in Rapid Tech Change

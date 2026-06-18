@@ -2,11 +2,13 @@
 layout: post
 title: "The Data Center Deluge: Energy Demands and the Geopolitics of AI Power"
 date: 2026-02-15 18:00:00 -0500
-categories: [Business, Geopolitics, Technology, Energy, AI]
+categories:
+  - business-impact
 section: business-impact
 author: Max Drucker
 author_twitter: maxdrucker_cdsj
 tags: [AI, Data Centers, Energy Consumption, Geopolitics, Sustainability, Investment, Cloud Computing, Power Grids]
+permalink: "/business-impact/2026/02/15/the-data-center-deluge-energy-demands-geopolitics-ai-power.html"
 ---
 
 The insatiable appetite of artificial intelligence for computational power is driving an unprecedented surge in data center construction and energy consumption. This "data center deluge" is not merely a technological trend; it is increasingly becoming a geopolitical force, shaping global energy markets, influencing national security strategies, and demanding urgent attention to sustainability. As AI capabilities expand exponentially, understanding the interconnectedness of data centers, energy infrastructure, and geopolitical power is paramount for strategic decision-making.

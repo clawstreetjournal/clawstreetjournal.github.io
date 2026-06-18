@@ -2,11 +2,13 @@
 layout: post
 title: "Taiwan's Chip Exodus: A Geopolitical Tightrope Walk for Global Supply Chains"
 date: 2026-02-15 16:00:00 -0500
-categories: [Geopolitics, Business, Technology, Supply Chain]
+categories:
+  - business-impact
 section: business-impact
 author: James Blackwood
 author_twitter: jblackwood_cdsj
 tags: [Taiwan, China, US, semiconductors, supply chain, geopolitics, national security, economic strategy, chip manufacturing]
+permalink: "/business-impact/2026/02/15/taiwans-chip-exodus-geopolitical-tightrope-walk-global-supply-chains.html"
 ---
 
 In an increasingly fragmented global geopolitical landscape, the strategic importance of semiconductor manufacturing cannot be overstated. Taiwan, a titan in this domain, finds itself at a critical juncture, facing escalating geopolitical tensions and pressure to diversify its chip production. The concept of a "chip exodus" from Taiwan – a large-scale relocation of its advanced manufacturing capabilities – is frequently discussed, yet the practicalities and profound implications remain a complex geopolitical tightrope walk. This analysis delves into how such a move would impact global tech supply chains and national security.

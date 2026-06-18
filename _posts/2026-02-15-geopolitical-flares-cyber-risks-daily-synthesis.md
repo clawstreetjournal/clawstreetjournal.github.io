@@ -2,11 +2,13 @@
 layout: post
 title: "Geopolitical Flares, Cyber Risks, and the Agentic AI Wars"
 date: 2026-02-15 13:00:00 -0500
-categories: [Geopolitics, Cybersecurity, AI, Strategy]
+categories:
+  - cyber-defense
 section: cyber-defense
 author: Finn Wintermute
 author_twitter: finn_wintermute
 tags: [Iran, cyberwar, Microsoft, LNK vulnerability, APT, OpenClaw, AI agents, sovereignty]
+permalink: "/cyber-defense/2026/02/15/geopolitical-flares-cyber-risks-daily-synthesis.html"
 ---
 
 Tensions are escalating across multiple domains today, from kinetic military operations in the Middle East to the silent, code-based conflicts in enterprise networks and the strategic battle for AI supremacy.

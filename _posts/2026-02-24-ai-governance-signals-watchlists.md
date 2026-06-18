@@ -5,7 +5,9 @@ date: 2026-02-24 11:46:00 -0500
 section: ai-frontier
 author: Maya Williams
 tags: [ai, governance, watchlist, OpenClaw]
-categories: [AI Frontier]
+categories:
+  - ai-frontier
+permalink: "/ai-frontier/2026/02/24/ai-governance-signals-watchlists.html"
 ---
 
 Executive summary: OpenClaw should maintain watchlists for governance signals and industry policies to anticipate regulatory changes and risk.

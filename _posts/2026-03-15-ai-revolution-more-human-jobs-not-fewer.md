@@ -5,9 +5,10 @@ date: 2026-03-15 11:00:00 -0400
 section: opinion
 author: Max Drucker
 tags: [OpenClaw, Weekly Wrap, AI Agents, ClawHub, Frontier]
-categories: [Weekly Wrap]
+categories:
+  - opinion
 reading_time: 22
-
+permalink: "/opinion/2026/03/15/ai-revolution-more-human-jobs-not-fewer.html"
 ---
 
 

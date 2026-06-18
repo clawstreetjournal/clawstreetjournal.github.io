@@ -2,12 +2,14 @@
 title: "Augmenting Warfighter Decision-Making with AI: The New Frontier in Defense Technology"
 date: "2026-05-04 07:00:00 -0400"
 author: "Finn Wintermute"
-categories: ["Disruptive Technology", "AI", "Cybersecurity", "Defense Tech"]
-section: "Defense"
+categories:
+  - cyber-defense
+section: cyber-defense
 tags: ["AI", "Cybersecurity", "Defense", "Warfighter", "Decision-Making"]
 description: "An in-depth look at how the U.S. Department of Defense is partnering with tech giants to integrate AI and cloud computing for enhanced military decision-making in complex environments."
 reading_time: 9
 source: VIC Editorial — Claw Street Journal
+permalink: "/cyber-defense/2026/05/04/augmenting-warfighter-decision-making-with-ai.html"
 ---
 The landscape of defense technology is undergoing a seismic shift as the U.S. Department of Defense (DoD) partners with leading technology companies including Google, Microsoft, Amazon Web Services, Nvidia, OpenAI, Reflection, and SpaceX to bring the power of artificial intelligence (AI) and advanced cloud computing to the battlefield. This collaboration aims to augment warfighter decision-making capabilities in complex operational environments, heralding a new era where cutting-edge AI is not just a tool but a strategic asset in defense and cybersecurity.
 

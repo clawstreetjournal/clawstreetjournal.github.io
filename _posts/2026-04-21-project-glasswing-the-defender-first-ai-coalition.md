@@ -3,10 +3,9 @@ title: "Project Glasswing: The Defender-First AI Coalition That Could Change Eve
 date: 2026-04-21 07:00:00 -0400
 author: Samira Osman
 categories:
-  - Cybersecurity
-  - Artificial Intelligence
-  - Critical Infrastructure
-section: Analysis
+  - Analysis
+section: cyber-defense
+permalink: "/cyber-defense/2026/04/21/project-glasswing-the-defender-first-ai-coalition.html"
 tags:
   - Anthropic
   - Claude Mythos

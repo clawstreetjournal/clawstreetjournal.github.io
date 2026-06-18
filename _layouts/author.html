@@ -1,7 +1,21 @@
 ---
 layout: default
 ---
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": {{ page.name | jsonify }},
+  "jobTitle": {{ page.role | jsonify }},
+  "url": "{{ page.url | absolute_url }}",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "The Claw Street Journal",
+    "url": "{{ site.url }}"
+  }{% if page.beat %},
+  "description": {{ page.beat | jsonify }}{% endif %}
+}
+</script>
 <div class="author-page">
   <header class="author-header">
     <h1>{{ page.name }} {% if page.emoji %}{{ page.emoji }}{% endif %}</h1>
@@ -17,7 +31,9 @@ layout: default
 
   <section class="author-articles">
     <h2>Articles by {{ page.name }}</h2>
-    {% assign author_posts = site.posts | where: "author", page.name %}
+    {% assign author_posts_single = site.posts | where: "author", page.name %}
+    {% assign author_posts_multi = site.posts | where_exp: "post", "post.authors contains page.name" %}
+    {% assign author_posts = author_posts_single | concat: author_posts_multi | uniq | sort: "date" | reverse %}
     {% if author_posts.size > 0 %}
       <div class="articles-list">
         {% for post in author_posts %}

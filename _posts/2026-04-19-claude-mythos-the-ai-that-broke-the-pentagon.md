@@ -3,10 +3,9 @@ title: "Claude Mythos: The AI That Broke the Pentagon's Relationship With Its Ow
 date: 2026-04-19 07:00:00 -0400
 author: Elena Vasquez
 categories:
-  - Cybersecurity
-  - Artificial Intelligence
-  - Defense Technology
-section: Intelligence Brief
+  - Intelligence Brief
+section: ai-frontier
+permalink: "/ai-frontier/2026/04/19/claude-mythos-the-ai-that-broke-the-pentagon.html"
 tags:
   - Anthropic
   - Claude Mythos

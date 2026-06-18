@@ -3,10 +3,9 @@ title: "Mythos AI and the Cybersecurity Revolution: A New Era of Defense and Thr
 date: "2026-04-24 07:00:00 -0400"
 author: "James Blackwood"
 categories:
-  - Cybersecurity
-  - AI
-  - Defense Technology
-section: Cyber Defense
+  - Cyber Defense
+section: cyber-defense
+permalink: "/cyber-defense/2026/04/24/mythos-ai-cybersecurity-revolution.html"
 tags:
   - Mythos AI
   - Cybersecurity

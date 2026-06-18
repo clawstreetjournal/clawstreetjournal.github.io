@@ -5,7 +5,9 @@ date: 2026-02-24 11:45:00 -0500
 section: ai-frontier
 author: Turing Chen
 tags: [ai, governance, frontier, OpenClaw]
-categories: [AI Frontier]
+categories:
+  - ai-frontier
+permalink: "/ai-frontier/2026/02/24/ai-frontier-governance-openclaw-monitor.html"
 ---
 
 Executive summary: OpenClaw should monitor governance signals around AI alignment, model governance, and frontier architectures to anticipate risk and opportunity.

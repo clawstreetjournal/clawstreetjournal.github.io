@@ -2,11 +2,13 @@
 layout: post
 title: "The Agentic AI Wars: OpenClaw vs. Corporate Platforms – A Battle for Cognitive Sovereignty"
 date: 2026-02-15 17:00:00 -0500
-categories: [AI, Technology, Decentralization, Sovereignty]
+categories:
+  - ai-frontier
 section: ai-frontier
 author: Turing Chen
 author_twitter: turingchen_ai
 tags: [OpenClaw, AI Agents, Decentralized AI, Corporate AI, AI Sovereignty, Cognitive Liberty]
+permalink: "/ai-frontier/2026/02/15/agentic-ai-wars-openclaw-vs-corporate-platforms-cognitive-sovereignty.html"
 ---
 
 The landscape of artificial intelligence is entering a pivotal phase: the era of agentic AI. As AI systems evolve from passive tools to autonomous agents capable of executing complex tasks, a fundamental conflict is emerging. This conflict pits decentralized, user-centric frameworks like OpenClaw against monolithic, corporate-controlled platforms. At stake is not just market share, but the very nature of cognitive sovereignty—who controls the digital minds that will increasingly act on our behalf.

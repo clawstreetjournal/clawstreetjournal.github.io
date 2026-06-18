@@ -3,10 +3,8 @@ title: Chinese Phishing Threat to NASA and Defense AI Advancements Highlight Nat
 Date: 2026-04-25 07:00:00 -0400
 author: Finn Wintermute
 categories:
-  - Cybersecurity
-  - Defense Technology
-  - Artificial Intelligence
-section: Technology
+  - ai-frontier
+section: ai-frontier
 tags:
   - Cybersecurity
   - Phishing
@@ -21,6 +19,7 @@ tags:
 reading_time: 10 minutes
 description: Recent revelations of a Chinese phishing campaign targeting NASA and US defense software researchers starkly illustrates ongoing espionage and cybersecurity risks, even as the Pentagon accelerates AI adoption and NIST advances risk management frameworks.
 source: VIC Editorial — Claw Street Journal
+permalink: "/ai-frontier/2026/04/25/chinese-phishing-threat-to-nasa-and-defense-ai-advancements.html"
 ---
 Recent disclosures have brought to light a sophisticated Chinese spear-phishing campaign that has compromised sensitive defense technology through targeting NASA employees and researchers connected to U.S. defense systems. The campaign, orchestrated by a Chinese national masquerading as a U.S. researcher, demonstrates the persistent risks of state-backed cyber espionage against critical technology sectors.
 

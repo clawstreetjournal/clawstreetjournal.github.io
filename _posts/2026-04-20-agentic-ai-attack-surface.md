@@ -3,9 +3,9 @@ title: "The Machine Against Itself: Agentic AI Is Now Both the Weapon and the Ba
 date: 2026-04-20 07:00:00 -0400
 author: Elena Vasquez
 categories:
-  - Cybersecurity
-  - Artificial Intelligence
-section: Intelligence Brief
+  - Intelligence Brief
+section: cyber-defense
+permalink: "/cyber-defense/2026/04/20/agentic-ai-attack-surface.html"
 tags:
   - agentic-ai
   - cybersecurity

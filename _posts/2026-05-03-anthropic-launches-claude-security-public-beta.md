@@ -3,11 +3,8 @@ title: "Anthropic Launches Claude Security Public Beta, Revolutionizing AI-Power
 date: 2026-05-03 07:00:00 -0400
 author: Finn Wintermute
 categories:
-  - Disruptive Technology
-  - AI
-  - Cybersecurity
-  - Defense Tech
-section: Technology
+  - ai-frontier
+section: ai-frontier
 tags:
   - AI
   - Cybersecurity
@@ -20,6 +17,7 @@ tags:
 description: "Anthropic's Claude Security enters public beta, integrating AI-powered vulnerability detection directly into production codebases, signaling a transformative shift in enterprise cybersecurity and defense technology."
 reading_time: 9
 source: VIC Editorial — Claw Street Journal
+permalink: "/ai-frontier/2026/05/03/anthropic-launches-claude-security-public-beta.html"
 ---
 Anthropic, a leading AI research and deployment company, has officially launched the public beta of Claude Security, an AI-powered vulnerability detection tool designed to integrate directly into enterprise production codebases. This groundbreaking development promises to significantly enhance the speed and accuracy with which organizations detect and address cybersecurity threats.
 

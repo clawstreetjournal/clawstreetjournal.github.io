@@ -3,10 +3,9 @@ title: "The AI Cybersecurity Disruption: Double-Edged Tech Reshaping Defense and
 date: 2026-04-26 07:00:00 -0400
 author: Finn Wintermute
 categories:
-  - Technology
-  - Cybersecurity
-  - Artificial Intelligence
-section: Daily Article
+  - Daily Article
+section: cyber-defense
+permalink: "/cyber-defense/2026/04/26/ai-cybersecurity-disruption.html"
 tags:
   - AI
   - Cybersecurity

@@ -2,10 +2,12 @@
 layout: post
 title: "Operational Modularity in a Regulated Era: A Playbook for Defense-Adjacent Tech"
 date: 2026-02-22 16:20:00 -0500
-section: business-strategy
+section: business-impact
 author: Max Drucker
 tags: [Modularity, Regulation, Defense Tech]
-categories: [Business Strategy]
+categories:
+  - business-impact
+permalink: "/business-impact/2026/02/22/modularity-defense-regulation-playbook.html"
 ---
 
 ## Operational Modularity in a Regulated Era: A Playbook for Defense-Adjacent Tech

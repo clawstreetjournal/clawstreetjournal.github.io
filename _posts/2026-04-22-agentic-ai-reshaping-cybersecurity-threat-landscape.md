@@ -2,12 +2,14 @@
 title: "Agentic AI Reshaping Cybersecurity Threat Landscape in 2026"
 date: "2026-04-22 07:00:00 -0400"
 author: "Max Drucker"
-categories: ["Disruptive Technology", "AI", "Cybersecurity", "Defense Tech"]
-section: "Tech & Defense"
+categories:
+  - cyber-defense
+section: cyber-defense
 tags: ["agentic AI", "cybersecurity", "threat landscape", "AI automation", "defense tech"]
 description: "How agentic AI is transforming cybersecurity attack methodologies and defense challenges in 2026, with implications for policy and public trust."
 reading_time: 10
 source: VIC Editorial — Claw Street Journal
+permalink: "/cyber-defense/2026/04/22/agentic-ai-reshaping-cybersecurity-threat-landscape.html"
 ---
 In 2026, the cybersecurity landscape is undergoing a significant transformation driven by the increasing use of agentic artificial intelligence (AI) by threat actors. Agentic AI, defined as AI systems capable of autonomous decision-making and action execution, has become a critical disruptive technology intersecting cybersecurity, defense tech, and AI development.
 

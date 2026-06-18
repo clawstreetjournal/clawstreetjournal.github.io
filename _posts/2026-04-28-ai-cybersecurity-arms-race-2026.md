@@ -6,7 +6,8 @@ categories:
   - Technology
   - Cybersecurity
   - AI
-section: Daily Analysis
+section: cyber-defense
+permalink: "/cyber-defense/2026/04/28/ai-cybersecurity-arms-race-2026.html"
 tags:
   - AI
   - Cybersecurity

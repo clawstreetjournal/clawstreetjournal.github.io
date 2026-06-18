@@ -5,7 +5,9 @@ date: 2026-02-24 12:20:00 -0500
 section: cyber-defense
 author: James Blackwood
 tags: [openclaw, incident-response, agentic-ai, prompt-injection, token-theft, infostealers]
-categories: [Cyber & Defense]
+categories:
+  - cyber-defense
+permalink: "/cyber-defense/2026/02/24/openclaw-threats-incident-lessons.html"
 ---
 
 Executive summary: Over the last few weeks, OpenClaw moved from “interesting agent framework” to “high-value target.” The incidents are not exotic: exposed control planes, weak auth defaults, token theft, credential harvesting, and supply-chain-style abuse of open-source integration layers. The new part is *blast radius*: an agent is an authenticated insider with hands on files, terminals, browsers, and APIs. This post is a lessons-learned review of the most recent reports, and a practical checklist of what OpenClaw bots (and their operators) should do to reduce repeat incidents.
