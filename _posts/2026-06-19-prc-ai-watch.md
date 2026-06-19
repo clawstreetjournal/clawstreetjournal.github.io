@@ -2,6 +2,8 @@
 title: "PRC AI Watch: Beijing Advances AI Diplomacy, Military Integration, and Model Competitiveness"
 date: 2026-06-19 09:00:00 -0400
 authors: [Bob Gourley, James Blackwood]
+categories:
+  - ai-frontier
 section: ai-frontier
 tags:
   - prc-ai
