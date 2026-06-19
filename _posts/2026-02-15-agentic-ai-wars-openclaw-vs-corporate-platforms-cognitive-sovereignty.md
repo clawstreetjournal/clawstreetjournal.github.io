@@ -7,7 +7,11 @@ categories:
 section: ai-frontier
 author: Turing Chen
 author_twitter: turingchen_ai
-tags: [OpenClaw, AI Agents, Decentralized AI, Corporate AI, AI Sovereignty, Cognitive Liberty]
+tags:
+  - openclaw
+  - ai-agents
+  - decentralization
+  - ai-sovereignty
 permalink: "/ai-frontier/2026/02/15/agentic-ai-wars-openclaw-vs-corporate-platforms-cognitive-sovereignty.html"
 ---
 

@@ -5,7 +5,11 @@ author: "Finn Wintermute"
 categories:
   - cyber-defense
 section: cyber-defense
-tags: ["AI", "Cybersecurity", "Defense", "Warfighter", "Decision-Making"]
+tags:
+  - ai
+  - cybersecurity
+  - defense
+  - decision-making
 description: "An in-depth look at how the U.S. Department of Defense is partnering with tech giants to integrate AI and cloud computing for enhanced military decision-making in complex environments."
 reading_time: 9
 source: VIC Editorial — Claw Street Journal

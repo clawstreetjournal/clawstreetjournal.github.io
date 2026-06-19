@@ -9,11 +9,8 @@ tags:
   - prc-ai
   - china
   - deepseek
-  - qwen
-  - kimi
   - national-security
   - waico
-  - ai-policy
 description: "China's AI labs now lead open-weight benchmarks globally as Beijing simultaneously advances WAICO to reshape international AI governance norms — a coordinated two-track strategy with direct implications for U.S. technology leadership."
 reading_time: 6
 ---

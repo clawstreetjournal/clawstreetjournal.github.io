@@ -6,11 +6,11 @@ categories:
   - cyber-defense
 section: cyber-defense
 tags:
-  - NATO
-  - Iran
-  - Taiwan
-  - Ukraine
-  - US-China
+  - nato
+  - iran
+  - taiwan
+  - ukraine
+  - us-china
   - cyber-espionage
 description: "A Pentagon review of U.S. forces in Europe, a fragile Iran ceasefire, stalled Ukraine peace talks, and Senate authorization of $1.5B in Indo-Pacific security aid are reshaping the global security order on a single day."
 reading_time: 6

@@ -12,6 +12,12 @@ tags:
   - taiwan
   - ukraine
   - geopolitics
+  - iran
+  - nato
+  - china
+  - taiwan
+  - ukraine
+  - geopolitics
 description: "A U.S.-Iran framework to reopen the Strait of Hormuz, a significant pullback of American air and naval assets from NATO Europe, and accelerating Chinese gray-zone pressure on Taiwan are converging in the same 72-hour window."
 reading_time: 6
 ---

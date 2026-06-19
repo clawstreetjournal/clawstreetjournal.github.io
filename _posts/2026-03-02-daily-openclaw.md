@@ -6,11 +6,9 @@ source_slug: daily-openclaw-2026-03-02
 published_at: 2026-03-02T20:54:44-05:00
 collected_at: 2026-03-02T20:54:44-05:00
 tags:
-  - OpenClaw
-  - Daily
-  - News
-  - Security
-  - Governance
+  - openclaw
+  - security
+  - governance
 reading_time: 6
 ---
 

@@ -4,7 +4,12 @@ title: "Navigating the Evolving OpenClaw Landscape"
 date: 2026-03-16 22:59:00 -0000
 section: openclaw-beat
 author: Finn Wintermute
-tags: [OpenClaw, AI Orchestration, Catalyst, Local Models, Governance, Open Source AI, Tech Business Impact]
+tags:
+  - openclaw
+  - agentic-ai
+  - local-ai
+  - governance
+  - open-source
 categories:
   - openclaw-beat
 permalink: "/openclaw-beat/2026/03/16/navigating-openclaw-landscape.html"

@@ -6,16 +6,13 @@ source_slug: openclaw-march-2026-state-of-play
 published_at: 2026-03-25T22:46:00-04:00
 collected_at: 2026-03-25T22:46:00-04:00
 tags:
-  - OpenClaw
-  - AI Agents
-  - NemoClaw
-  - DefenseClaw
-  - Agentic AI
-  - Security
-  - Governance
-  - RSAC
-  - Nvidia
-  - Cisco
+  - openclaw
+  - ai-agents
+  - agentic-ai
+  - security
+  - governance
+  - cybersecurity
+  - nvidia
 reading_time: 8
 ---
 

@@ -6,13 +6,11 @@ categories:
   - cyber-defense
 section: cyber-defense
 tags:
-  - Agentic AI
-  - Vulnerability
-  - MCP
-  - CVE
-  - Agent Infrastructure
-  - Zero-Day
-  - AI Security
+  - agentic-ai
+  - vulnerability
+  - mcp
+  - zero-day
+  - ai-security
 description: "A maximum-severity CVSS 10.0 RCE vulnerability in Flowise — the popular open-source AI agent builder — is under active exploitation, exposing more than 12,000 internet-facing instances and revealing a catastrophic gap in how organizations are securing the plumbing of the agentic AI era."
 reading_time: 6
 ---

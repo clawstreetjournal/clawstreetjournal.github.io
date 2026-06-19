@@ -9,12 +9,11 @@ permalink: "/cyber-defense/2026/04/20/agentic-ai-attack-surface.html"
 tags:
   - agentic-ai
   - cybersecurity
-  - frontier-models
-  - IBM
-  - non-human-identities
-  - attack-surface
+  - frontier
+  - ibm
+  - non-human-identity
   - national-security
-  - AI-governance
+  - ai-governance
 description: "Frontier AI models are now weaponized on both sides of the cyber kill chain. IBM's autonomous security launch, a SANS Institute identity crisis, and Harvard's governance alarm signal that the old rules of cyber defense no longer apply."
 reading_time: 6
 source: VIC Editorial — Claw Street Journal

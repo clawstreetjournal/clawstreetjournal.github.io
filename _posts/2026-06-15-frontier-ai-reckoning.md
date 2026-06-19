@@ -12,6 +12,12 @@ tags:
   - anthropic
   - microsoft
   - openai
+  - regulation
+  - enterprise-ai
+  - national-security
+  - anthropic
+  - microsoft
+  - openai
 description: "A convergence of executive action, enterprise budget fatigue, and frontier model proliferation is forcing a reckoning across the U.S. AI industry."
 reading_time: 6
 ---

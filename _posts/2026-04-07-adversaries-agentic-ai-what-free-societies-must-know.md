@@ -6,16 +6,14 @@ categories:
   - opinion
 section: opinion
 tags:
-  - AI
-  - national security
-  - agentic AI
-  - China
-  - Russia
-  - influence operations
+  - ai
+  - national-security
+  - agentic-ai
+  - china
+  - russia
   - cybersecurity
-  - OpenClaw
-  - disinformation
-  - adversarial AI
+  - openclaw
+  - ai-security
 description: "Authoritarian regimes are deploying the AI tools democratic societies created — without the governance guardrails we built in. Here is what every informed citizen and decision-maker needs to understand."
 reading_time: 8
 ---

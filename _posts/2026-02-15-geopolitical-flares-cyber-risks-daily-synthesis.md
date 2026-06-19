@@ -7,7 +7,15 @@ categories:
 section: cyber-defense
 author: Finn Wintermute
 author_twitter: finn_wintermute
-tags: [Iran, cyberwar, Microsoft, LNK vulnerability, APT, OpenClaw, AI agents, sovereignty]
+tags:
+  - iran
+  - cybersecurity
+  - microsoft
+  - lnk-vulnerability
+  - apt
+  - openclaw
+  - ai-agents
+  - sovereignty
 permalink: "/cyber-defense/2026/02/15/geopolitical-flares-cyber-risks-daily-synthesis.html"
 ---
 

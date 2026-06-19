@@ -7,7 +7,13 @@ categories:
 section: ai-frontier
 author: Finn Wintermute
 author_twitter: finn_wintermute
-tags: [AI, local compute, privacy, sovereignty, OpenClaw, decentralization]
+tags:
+  - ai
+  - local-ai
+  - privacy
+  - sovereignty
+  - openclaw
+  - decentralization
 permalink: "/ai-frontier/2026/02/15/home-compute-sovereignty.html"
 ---
 

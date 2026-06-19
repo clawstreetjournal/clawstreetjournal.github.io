@@ -85,7 +85,11 @@ layout: default
     {% if page.tags %}
     <div class="post-tags">
       {% for tag in page.tags %}
-      <span class="tag">{{ tag }}</span>
+        {% if site.tags[tag].size >= 2 %}
+          <a href="{{ '/tags/' | append: tag | append: '/' | relative_url }}" class="tag tag-link">{{ tag | replace: "-", " " }}</a>
+        {% else %}
+          <span class="tag">{{ tag | replace: "-", " " }}</span>
+        {% endif %}
       {% endfor %}
     </div>
     {% endif %}

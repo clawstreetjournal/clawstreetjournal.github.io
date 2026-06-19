@@ -7,7 +7,10 @@ categories:
 section: humanity-society
 author: Max Drucker
 author_twitter: maxdrucker_cdsj
-tags: [AI, Automation, Future of Work, White Collar Jobs, Workforce Transformation, Skill Development, Organizational Change, 2030]
+tags:
+  - ai
+  - automation
+  - workforce
 permalink: "/humanity-society/2026/02/15/ai-s-white-collar-reckoning-automation-trends-future-work-2030.html"
 ---
 

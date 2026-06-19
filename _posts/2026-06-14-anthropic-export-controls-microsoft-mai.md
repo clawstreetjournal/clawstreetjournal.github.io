@@ -11,6 +11,11 @@ tags:
   - microsoft
   - enterprise-ai
   - ai-governance
+  - anthropic
+  - export-controls
+  - microsoft
+  - enterprise-ai
+  - ai-governance
 description: "The Commerce Department ordered Anthropic to disable Fable 5 and Mythos 5 for all foreign nationals — the first time export controls have targeted a deployed commercial AI model — just as Anthropic became the #1 enterprise AI provider in the US."
 reading_time: 10
 ---

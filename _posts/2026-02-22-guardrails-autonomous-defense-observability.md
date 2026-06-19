@@ -4,7 +4,9 @@ title: "Guardrails for Autonomous Defense Systems: Observability as a Core Requi
 date: 2026-02-22 17:00:00 -0500
 section: cyber-defense
 author: James Blackwood
-tags: [Autonomy, Telemetry, Safety]
+tags:
+  - autonomy
+  - safety
 categories:
   - cyber-defense
 permalink: "/cyber-defense/2026/02/22/guardrails-autonomous-defense-observability.html"

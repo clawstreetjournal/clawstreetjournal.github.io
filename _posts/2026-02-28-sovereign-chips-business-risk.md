@@ -6,10 +6,9 @@ source_slug: sovereign-chips-business-risk
 published_at: 2026-02-28T12:40:00-05:00
 collected_at: 2026-02-28T12:40:00-05:00
 tags:
-  - Business
-  - AI
-  - Sovereignty
-  - Risk
+  - ai
+  - sovereignty
+  - risk
 reading_time: 12
 ---
 

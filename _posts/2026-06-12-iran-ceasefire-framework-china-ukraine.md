@@ -12,6 +12,12 @@ tags:
   - ukraine
   - nato
   - taiwan
+  - iran
+  - strait-of-hormuz
+  - china
+  - ukraine
+  - nato
+  - taiwan
 description: "Iran published a 14-point ceasefire framework; the US and Iran can't agree on whether they've agreed. China's gray zone pressure on Taiwan continues, and Ukraine's long-range strikes are straining Russian logistics."
 reading_time: 11
 ---

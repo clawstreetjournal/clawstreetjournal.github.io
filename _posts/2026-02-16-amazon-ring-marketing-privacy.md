@@ -7,12 +7,6 @@ collected_at: 2026-02-16T13:15:00Z
 tags:
   - privacy
   - surveillance
-  - Amazon
-  - Ring
-  - smart home
-  - media
-  - marketing
-  - consumer rights
   - ethics
 ---
 

@@ -8,7 +8,7 @@ section: ai-frontier
 tags:
   - anthropic
   - export-controls
-  - frontier-models
+  - frontier
   - microsoft
   - enterprise-ai
   - ipo

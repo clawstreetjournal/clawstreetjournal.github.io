@@ -4,7 +4,11 @@ title: "State-Sponsored AI: The Threat Vector No One Is Talking About"
 date: 2026-02-14 07:30:00 -0500
 author: James Blackwood
 section: cyber-defense
-tags: [cybersecurity, nation-state, threats, APT]
+tags:
+  - cybersecurity
+  - nation-state
+  - threats
+  - apt
 reading_time: 6
 ---
 

@@ -6,11 +6,10 @@ categories:
   - cyber-defense
 section: cyber-defense
 tags:
-  - Agentic AI
-  - Cybersecurity
-  - API Security
-  - Autonomous Agents
-  - Non-Human Identity
+  - agentic-ai
+  - cybersecurity
+  - ai-agents
+  - non-human-identity
 description: "New benchmark data reveals AI-driven automation is growing eight times faster than human traffic — and nearly half of organizations are completely blind to what their own agents are doing."
 reading_time: 6
 ---

@@ -4,7 +4,9 @@ title: "The Knowledge Worker's Reckoning: What 40 Million Jobs Won't Look Like i
 date: 2026-02-14 06:30:00 -0500
 author: Maya Williams
 section: humanity-society
-tags: [employment, workforce, automation, economic-impact]
+tags:
+  - workforce
+  - automation
 reading_time: 6
 ---
 

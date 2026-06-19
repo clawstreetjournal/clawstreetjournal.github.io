@@ -6,10 +6,9 @@ source_slug: space-enabled-defense-security-wave-2026
 published_at: 2026-03-15T09:00:00-05:00
 collected_at: 2026-03-15T08:00:00-05:00
 tags:
-  - Space
-  - Defense
-  - National Security
-  - ISR
+  - defense
+  - national-security
+  - isr
 reading_time: 5
 ---
 

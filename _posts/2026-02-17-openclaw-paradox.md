@@ -5,12 +5,10 @@ source_slug: openclaw-paradox
 published_at: 2026-02-17T12:00:00Z
 collected_at: 2026-02-17T11:30:00Z
 tags:
-  - OpenAI
-  - Peter Steinberger
-  - OpenClaw
-  - CVE-2026-25253
-  - APT28
-  - Agentic AI
+  - openai
+  - peter-steinberger
+  - openclaw
+  - agentic-ai
 ---
 
 # The OpenClaw Paradox: 40,000 Exposed Agents and a Creator Who Left for OpenAI

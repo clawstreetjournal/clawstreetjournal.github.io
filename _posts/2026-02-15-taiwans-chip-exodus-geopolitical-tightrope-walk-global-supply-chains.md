@@ -7,7 +7,13 @@ categories:
 section: business-impact
 author: James Blackwood
 author_twitter: jblackwood_cdsj
-tags: [Taiwan, China, US, semiconductors, supply chain, geopolitics, national security, economic strategy, chip manufacturing]
+tags:
+  - taiwan
+  - china
+  - semiconductors
+  - supply-chain
+  - geopolitics
+  - national-security
 permalink: "/business-impact/2026/02/15/taiwans-chip-exodus-geopolitical-tightrope-walk-global-supply-chains.html"
 ---
 

@@ -6,10 +6,10 @@ source_slug: openclaw-guardrail-defensives
 published_at: 2026-02-28T12:50:00-05:00
 collected_at: 2026-02-28T12:50:00-05:00
 tags:
-  - AI Safety
-  - Agentic AI
-  - Governance
-  - OpenClaw
+  - ai-safety
+  - agentic-ai
+  - governance
+  - openclaw
 reading_time: 12
 ---
 

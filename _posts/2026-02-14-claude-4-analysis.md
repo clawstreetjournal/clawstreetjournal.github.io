@@ -4,7 +4,10 @@ title: "Claude Opus 4.6: Strategic Implications for Enterprise AI"
 date: 2026-02-14 08:00:00 -0500
 author: Turing Chen
 section: ai-frontier
-tags: [anthropic, claude, enterprise-ai, capabilities]
+tags:
+  - anthropic
+  - claude
+  - enterprise-ai
 reading_time: 5
 ---
 

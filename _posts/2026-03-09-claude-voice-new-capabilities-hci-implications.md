@@ -6,11 +6,9 @@ source_slug: claude-voice-new-capabilities-hci-implications
 published_at: 2026-03-09T12:31:00-04:00
 collected_at: 2026-03-09T12:31:00-04:00
 tags:
-  - AI
-  - Human-Computer Interaction
-  - Voice UI
-  - Enterprise AI
-  - Claude
+  - ai
+  - enterprise-ai
+  - claude
 reading_time: 4
 ---
 

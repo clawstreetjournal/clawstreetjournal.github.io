@@ -6,12 +6,12 @@ categories:
   - cyber-defense
 section: cyber-defense
 tags:
-  - MCP
-  - Agentic AI
-  - Cybersecurity
-  - AI Agents
-  - Enterprise Security
-  - Prompt Injection
+  - mcp
+  - agentic-ai
+  - cybersecurity
+  - ai-agents
+  - enterprise-security
+  - prompt-injection
 description: "The Model Context Protocol has become the nervous system of enterprise AI — and attackers are already probing its every nerve."
 reading_time: 6
 ---

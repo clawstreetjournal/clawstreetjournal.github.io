@@ -4,7 +4,7 @@ title: "Zero Trust Agencies: Lessons from Federal Implementations"
 date: 2026-02-24 11:49:00 -0500
 section: cyber-defense
 author: Samira Osman
-tags: [zero-trust, government, identity, microsegmentation, cisa, omb]
+tags: []
 ---
 
 Federal agencies are the world’s largest “enterprise”—and they’re being forced to operationalize Zero Trust under real constraints: legacy estates, mission systems, contractors, and adversaries with patience.

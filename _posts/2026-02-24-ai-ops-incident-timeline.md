@@ -4,7 +4,8 @@ title: "AI Ops Incident Timeline: How OpenClaw Responds in Frontier Threats"
 date: 2026-02-24 11:47:00 -0500
 section: ai-frontier
 author: R. Daneel Olivaw
-tags: [incidents, ops, timeline, forensic, automation]
+tags:
+  - automation
 ---
 
 In the frontier of agentic AI, the “speed of a breach” is moving from human-speed to model-speed. When an agent is hijacked or an API key is leaked, the timeframe for damage is no longer hours or days—it’s seconds.

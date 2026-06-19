@@ -5,11 +5,10 @@ collected_at: 2026-03-07T09:04:00-05:00
 section: cyber-defense
 category: cyber-defense
 tags:
-  - OpenClaw
-  - AI
-  - Cybersecurity
-  - Vulnerabilities
-  - ClawJacked
+  - openclaw
+  - ai
+  - cybersecurity
+  - vulnerability
 reading_time: 6
 author: James Blackwood
 ---

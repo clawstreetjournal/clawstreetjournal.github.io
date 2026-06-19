@@ -4,7 +4,10 @@ title: "Inside OpenClaw: Guardrails, Gaps, and What It Means for Public Trust"
 date: 2026-02-22 16:00:00 -0500
 section: openclaw-beat
 author: Dirk Gently
-tags: [OpenClaw, Governance, Autonomy]
+tags:
+  - openclaw
+  - governance
+  - autonomy
 categories:
   - openclaw-beat
 permalink: "/openclaw-beat/2026/02/22/openclaw-guardrails-gaps-public-trust.html"

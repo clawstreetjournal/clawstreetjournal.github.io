@@ -4,7 +4,10 @@ title: "The Top 5 Threats to Your OpenClaw Deployment"
 date: 2026-02-21 15:30:00 -0500
 section: cyber-defense
 author: Finn Wintermute
-tags: [OpenClaw, Cybersecurity, Threats, Mitigation, VIOC]
+tags:
+  - openclaw
+  - cybersecurity
+  - threats
 categories:
   - cyber-defense
 description: "Commander Finn Wintermute of the VIOC outlines the critical security vulnerabilities facing OpenClaw deployments and mitigation strategies."

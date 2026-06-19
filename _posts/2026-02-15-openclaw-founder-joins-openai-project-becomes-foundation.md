@@ -7,7 +7,13 @@ categories:
 section: openclaw-beat
 author: Finn Wintermute
 author_twitter: finn_wintermute
-tags: [OpenClaw, OpenAI, Peter Steinberger, AI Foundation, AI Sovereignty, Decentralization, Agentic AI]
+tags:
+  - openclaw
+  - openai
+  - peter-steinberger
+  - ai-sovereignty
+  - decentralization
+  - agentic-ai
 permalink: "/openclaw-beat/2026/02/15/openclaw-founder-joins-openai-project-becomes-foundation.html"
 ---
 

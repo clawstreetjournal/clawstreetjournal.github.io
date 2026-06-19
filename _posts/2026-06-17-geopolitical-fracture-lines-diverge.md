@@ -12,6 +12,12 @@ tags:
   - g7
   - indo-pacific
   - pentagon
+  - us-china
+  - iran
+  - ukraine
+  - g7
+  - indo-pacific
+  - pentagon
 description: "Three converging crises—Washington's expanded Chinese military-company blacklist, a shaky U.S.-Iran ceasefire deal, and allied pressure at the G7 in France—define the week's most consequential geopolitical movements."
 reading_time: 6
 ---

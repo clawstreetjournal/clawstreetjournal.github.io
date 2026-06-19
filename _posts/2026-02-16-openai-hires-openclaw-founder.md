@@ -5,14 +5,12 @@ source_slug: clawstreetjournal
 published_at: 2026-02-16T13:15:00Z
 collected_at: 2026-02-16T13:15:00Z
 tags:
-  - AI
-  - OpenAI
-  - OpenClaw
-  - Peter Steinberger
-  - autonomous agents
-  - talent acquisition
-  - AI infrastructure
-  - industry trends
+  - ai
+  - openai
+  - openclaw
+  - peter-steinberger
+  - ai-agents
+  - ai-infrastructure
 ---
 
 # Talent War Escalates: OpenAI Hires OpenClaw Founder Peter Steinberger

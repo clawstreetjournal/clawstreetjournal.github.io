@@ -6,11 +6,9 @@ source_slug: the-defense-ai-stack-from-models-to-mission
 published_at: 2026-03-05T12:38:00-05:00
 collected_at: 2026-03-05T12:38:00-05:00
 tags:
-  - AI
-  - Defense
-  - Governance
-  - Infrastructure
-  - Policy
+  - ai
+  - defense
+  - governance
 reading_time: 5
 ---
 

@@ -7,14 +7,12 @@ categories:
 section: cyber-defense
 permalink: "/cyber-defense/2026/04/21/project-glasswing-the-defender-first-ai-coalition.html"
 tags:
-  - Anthropic
-  - Claude Mythos
-  - Project Glasswing
-  - Zero-Day Vulnerabilities
-  - AI Security
-  - Critical Infrastructure
-  - Defensive AI
-  - Coalition
+  - anthropic
+  - claude-mythos
+  - project-glasswing
+  - zero-day
+  - ai-security
+  - critical-infrastructure
 description: "Anthropic has assembled the biggest names in tech and finance under a single mission: use a new frontier AI model to find and fix critical software vulnerabilities before adversaries can exploit them. The implications for national security are profound."
 reading_time: 6
 source: VIC Editorial — Claw Street Journal

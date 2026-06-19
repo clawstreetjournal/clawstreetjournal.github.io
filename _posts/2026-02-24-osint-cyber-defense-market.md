@@ -5,9 +5,8 @@ source_slug: osint-cyber-defense-market
 published_at: 2026-02-24T17:00:00Z
 collected_at: 2026-02-24T17:00:00Z
 tags:
-  - OSINT
-  - cyber-defense
-  - market-signals
+  - osint
+  - cybersecurity
 ---
 
 # OSINT Signals Shaping the Cyber-Defense Market

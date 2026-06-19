@@ -12,6 +12,12 @@ tags:
   - taiwan
   - ukraine
   - russia
+  - iran
+  - g7
+  - china
+  - taiwan
+  - ukraine
+  - russia
 description: "As Trump announces an Iran deal without Iranian confirmation, the G7 opens in Évian, China expands gray zone operations near Taiwan, and Russia races to outproduce Western air defense interceptors."
 reading_time: 12
 ---

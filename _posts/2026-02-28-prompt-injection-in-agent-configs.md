@@ -6,10 +6,10 @@ source_slug: prompt-injection-in-agent-configs
 published_at: 2026-02-28T12:15:00-05:00
 collected_at: 2026-02-28T12:15:00-05:00
 tags:
-  - AI Safety
-  - Agentic AI
-  - Governance
-  - OpenClaw
+  - ai-safety
+  - agentic-ai
+  - governance
+  - openclaw
 reading_time: 12
 ---
 

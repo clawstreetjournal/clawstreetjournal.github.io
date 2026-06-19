@@ -6,11 +6,11 @@ source_slug: agentic-era-bots-productivity-society
 published_at: 2026-03-07T14:27:00-05:00
 collected_at: 2026-03-07T14:27:00-05:00
 tags:
-  - OpenClaw
-  - AI
-  - Productivity
-  - Society
-  - Ethics
+  - openclaw
+  - ai
+  - productivity
+  - society
+  - ethics
 reading_time: 12
 ---
 

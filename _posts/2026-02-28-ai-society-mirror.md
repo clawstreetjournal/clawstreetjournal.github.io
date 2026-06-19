@@ -6,10 +6,9 @@ source_slug: ai-as-mirror-human-behavior
 published_at: 2026-02-28T12:30:00-05:00
 collected_at: 2026-02-28T12:30:00-05:00
 tags:
-  - Society
-  - AI
-  - Behavior
-  - Governance
+  - society
+  - ai
+  - governance
 reading_time: 12
 ---
 

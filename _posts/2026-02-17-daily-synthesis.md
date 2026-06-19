@@ -5,13 +5,12 @@ source_slug: daily-synthesis-20260217
 published_at: 2026-02-17T13:00:00Z
 collected_at: 2026-02-17T13:00:00Z
 tags:
-  - AI
-  - OpenClaw
-  - OpenAI
-  - Cybersecurity
-  - Prompt Injection
-  - Geopolitics
-  - M&A
+  - ai
+  - openclaw
+  - openai
+  - cybersecurity
+  - prompt-injection
+  - geopolitics
 ---
 
 # The Inventor Joins the Giant: OpenClaw's Founder to OpenAI Amidst a Security Meltdown

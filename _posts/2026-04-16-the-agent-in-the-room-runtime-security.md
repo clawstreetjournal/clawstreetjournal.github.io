@@ -6,13 +6,11 @@ categories:
   - cyber-defense
 section: cyber-defense
 tags:
-  - Agentic AI
-  - Cybersecurity
-  - Prompt Injection
-  - Microsoft Copilot Studio
-  - Salesforce Agentforce
-  - Enterprise Security
-  - AI Agents
+  - agentic-ai
+  - cybersecurity
+  - prompt-injection
+  - enterprise-security
+  - ai-agents
 description: "A Tel Aviv startup emerged from stealth this week with proof-of-concept exploits against Microsoft and Salesforce AI agents—exposing a dangerous new class of enterprise vulnerability that nobody's identity stack was built to handle."
 reading_time: 6
 source: VIC Editorial — Claw Street Journal

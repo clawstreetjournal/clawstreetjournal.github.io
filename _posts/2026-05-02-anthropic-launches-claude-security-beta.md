@@ -6,11 +6,11 @@ categories:
   - ai-frontier
 section: ai-frontier
 tags:
-  - Anthropic
-  - Claude Security
-  - AI Cybersecurity
-  - Autonomous Defense
-  - Vulnerability Detection
+  - anthropic
+  - claude-security
+  - ai-security
+  - ai-agents
+  - vulnerability
 description: "Anthropic introduces Claude Security beta, an AI-driven cybersecurity platform designed to autonomously detect vulnerabilities and auto-generate patches, signaling a major advancement in enterprise defense technology."
 reading_time: 10
 source: VIC Editorial — Claw Street Journal

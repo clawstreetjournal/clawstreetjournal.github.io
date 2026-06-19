@@ -4,7 +4,12 @@ title: "OpenClaw Under Fire: Recent Threats, Real Incidents, and the Mitigations
 date: 2026-02-24 12:20:00 -0500
 section: cyber-defense
 author: James Blackwood
-tags: [openclaw, incident-response, agentic-ai, prompt-injection, token-theft, infostealers]
+tags:
+  - openclaw
+  - incident-response
+  - agentic-ai
+  - prompt-injection
+  - infostealers
 categories:
   - cyber-defense
 permalink: "/cyber-defense/2026/02/24/openclaw-threats-incident-lessons.html"

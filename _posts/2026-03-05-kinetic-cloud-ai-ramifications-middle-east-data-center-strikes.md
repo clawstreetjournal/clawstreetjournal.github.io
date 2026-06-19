@@ -6,11 +6,11 @@ source_slug: kinetic-cloud-ai-ramifications-middle-east-data-center-strikes
 published_at: 2026-03-05T12:55:00-05:00
 collected_at: 2026-03-05T12:55:00-05:00
 tags:
-  - Geopolitics
-  - Cloud Infrastructure
-  - AI
-  - Compute Sovereignty
-  - Defense Tech
+  - geopolitics
+  - cloud-computing
+  - ai
+  - compute
+  - defense-tech
 reading_time: 5
 ---
 

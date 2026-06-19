@@ -6,13 +6,10 @@ categories:
   - business-impact
 section: business-impact
 tags:
-  - AI
-  - consulting
-  - OpenClaw
-  - small business
+  - ai
+  - openclaw
   - productivity
-  - agentic AI
-  - professional services
+  - agentic-ai
 description: "Small consulting firms that embrace AI tools today — including multi-agent platforms like OpenClaw — can dramatically expand their analytical capacity, speed, and client value without adding headcount."
 reading_time: 7
 ---

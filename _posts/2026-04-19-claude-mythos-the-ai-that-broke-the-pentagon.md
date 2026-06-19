@@ -7,15 +7,14 @@ categories:
 section: ai-frontier
 permalink: "/ai-frontier/2026/04/19/claude-mythos-the-ai-that-broke-the-pentagon.html"
 tags:
-  - Anthropic
-  - Claude Mythos
-  - Project Glasswing
-  - AI security
-  - Pentagon
-  - vulnerability discovery
-  - AI governance
-  - AISI
-  - cyberattacks
+  - anthropic
+  - claude-mythos
+  - project-glasswing
+  - ai-security
+  - pentagon
+  - vulnerability
+  - ai-governance
+  - cybersecurity
 description: "Anthropic's Claude Mythos has done something no AI model managed before: it completed 73% of expert-level hacking challenges, sparked a White House intervention, and sent G7 central bankers into emergency sessions — all in one week."
 reading_time: 6
 source: VIC Editorial — Claw Street Journal

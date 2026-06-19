@@ -4,7 +4,8 @@ title: "The AI Strategy Paradox: Why Fast Followers Will Lose"
 date: 2026-02-14 07:00:00 -0500
 author: Max Drucker
 section: business-impact
-tags: [strategy, management, competitive-advantage]
+tags:
+  - strategy
 reading_time: 5
 ---
 

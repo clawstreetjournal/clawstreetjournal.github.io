@@ -6,10 +6,10 @@ source_slug: openclaw-cyber-incident-draft
 published_at: 2026-03-01T00:00:00-05:00
 collected_at: 2026-03-01T00:00:00-05:00
 tags:
-  - OpenClaw
-  - Shadow AI
-  - Incident Response
-  - Cybersecurity
+  - openclaw
+  - shadow-ai
+  - incident-response
+  - cybersecurity
 reading_time: 12
 ---
 

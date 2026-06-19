@@ -6,13 +6,12 @@ source_slug: shadow-agents-the-risks-and-realities-of-local-ai
 published_at: 2026-02-19T10:15:00-05:00
 collected_at: 2026-02-19T10:15:00-05:00
 tags:
-  - Cybersecurity
-  - AI
-  - OpenClaw
-  - Agent Security
-  - Prompt Injection
-  - Shadow IT
-  - Hardening
+  - cybersecurity
+  - ai
+  - openclaw
+  - ai-security
+  - prompt-injection
+  - shadow-ai
 ---
 
 # Shadow Agents: The Risks and Realities of Local AI

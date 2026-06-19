@@ -11,10 +11,7 @@ tags:
   - national-security
   - deepseek
   - waico
-  - open-weight
   - export-controls
-  - military-ai
-  - minimax
 description: "DeepSeek closes a $7.4 billion round structured to give Beijing's state AI fund the only voting rights; China announces a July deadline for WAICO's institutional launch; Chinese open-weight models cross U.S. global download share for the first time."
 reading_time: 6
 ---

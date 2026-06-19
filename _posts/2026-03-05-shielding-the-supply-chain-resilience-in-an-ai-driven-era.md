@@ -6,11 +6,10 @@ source_slug: shielding-the-supply-chain-resilience-in-an-ai-driven-era
 published_at: 2026-03-05T12:38:00-05:00
 collected_at: 2026-03-05T12:38:00-05:00
 tags:
-  - Supply-chain
-  - AI
-  - Risk
-  - Defense Tech
-  - Industry
+  - supply-chain
+  - ai
+  - risk
+  - defense-tech
 reading_time: 4
 ---
 

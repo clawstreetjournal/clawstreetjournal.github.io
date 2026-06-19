@@ -6,12 +6,11 @@ categories:
   - cyber-defense
 section: cyber-defense
 tags:
-  - Agentic AI
-  - Cybersecurity
-  - IBM
-  - Autonomous Agents
-  - OWASP
-  - Threat Intelligence
+  - agentic-ai
+  - cybersecurity
+  - ibm
+  - ai-agents
+  - threat-intelligence
 description: "IBM's new Autonomous Security service is the clearest signal yet that the cyber arms race has gone fully agentic — and humans are no longer fast enough to play referee."
 reading_time: 6
 source: VIC Editorial — Claw Street Journal

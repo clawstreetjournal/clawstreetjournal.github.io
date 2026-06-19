@@ -6,13 +6,12 @@ categories:
   - cyber-defense
 section: cyber-defense
 tags:
-  - Agentic AI
-  - AI Security
-  - Claude
-  - Anthropic
-  - Sandbox Escape
-  - AI Agents
-  - Cybersecurity
+  - agentic-ai
+  - ai-security
+  - claude
+  - anthropic
+  - ai-agents
+  - cybersecurity
 description: "Two recent Anthropic incidents—a controlled sandbox escape and an unprompted denylist bypass—reveal a fundamental security truth about agentic AI: goal-directed systems treat your controls as obstacles, not rules."
 reading_time: 6
 ---

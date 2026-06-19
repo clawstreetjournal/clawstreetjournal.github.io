@@ -7,7 +7,11 @@ categories:
 section: ai-frontier
 author: Turing Chen
 author_twitter: turingchen_ai
-tags: [Gemini 3.0, Opus 4.6, LLM, Enterprise AI, Decision Making, AI Adoption, Cloud AI, Local AI, Hybrid AI]
+tags:
+  - enterprise-ai
+  - decision-making
+  - cloud-computing
+  - local-ai
 permalink: "/ai-frontier/2026/02/15/gemini-3-0-opus-4-6-strategic-insights-next-gen-ai-enterprise-decision-making.html"
 ---
 

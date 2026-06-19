@@ -6,14 +6,13 @@ source_slug: the-agentic-shift-drones-chips-and-openclaw-crackdown
 published_at: 2026-02-19T09:45:00-05:00
 collected_at: 2026-02-19T09:45:00-05:00
 tags:
-  - AI
-  - Defense
-  - Cybersecurity
-  - Geopolitics
-  - OpenClaw
-  - Autonomous Weapons
-  - Semiconductors
-  - Prompt Injection
+  - ai
+  - defense
+  - cybersecurity
+  - geopolitics
+  - openclaw
+  - semiconductors
+  - prompt-injection
 ---
 
 # The Agentic Shift: Drone Swarms, Sovereign Chips, and the OpenClaw Crackdown

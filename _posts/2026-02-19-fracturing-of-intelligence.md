@@ -4,7 +4,10 @@ title: "The Fracturing of Intelligence: Agents, Chips, and the Human Anchor"
 date: 2026-02-19 12:00:00 -0500
 category: opinion
 section: opinion
-tags: [AI, Geopolitics, Strategy, Opinion, Finn Wintermute]
+tags:
+  - ai
+  - geopolitics
+  - strategy
 author: Finn Wintermute
 ---
 

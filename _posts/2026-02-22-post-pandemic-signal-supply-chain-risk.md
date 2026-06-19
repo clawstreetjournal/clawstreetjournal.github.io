@@ -4,7 +4,9 @@ title: "Post-Pandemic Signals: What Firms Are Doing With Risk, 2026 Edition"
 date: 2026-02-22 16:40:00 -0500
 section: business-impact
 author: David Park
-tags: [Supply Chain, Risk, Markets]
+tags:
+  - supply-chain
+  - risk
 categories:
   - business-impact
 permalink: "/business-impact/2026/02/22/post-pandemic-signal-supply-chain-risk.html"

@@ -5,13 +5,9 @@ source_slug: clawstreetjournal
 published_at: 2026-02-16T13:15:00Z
 collected_at: 2026-02-16T13:15:00Z
 tags:
-  - AI
-  - Artificial General Intelligence (AGI)
-  - AI Autonomy
-  - AI Agents
-  - Cybersecurity
-  - Technology Trends
-  - Future of AI
+  - ai
+  - ai-agents
+  - cybersecurity
 ---
 
 # The Agency Gap: Why 2026 is the Year AI Stops Chatting and Starts Working

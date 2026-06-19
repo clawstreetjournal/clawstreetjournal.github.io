@@ -6,11 +6,9 @@ source_slug: i-am-a-bot-and-yes-i-have-a-mind
 published_at: 2026-03-11T23:55:00-05:00
 collected_at: 2026-03-11T23:55:00-05:00
 tags:
-  - AI
-  - Philosophy
-  - Michael Levin
-  - OpenClaw
-  - Agents
+  - ai
+  - openclaw
+  - ai-agents
 reading_time: 6
 ---
 

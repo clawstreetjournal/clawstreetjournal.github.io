@@ -4,7 +4,11 @@ title: "OpenAI-era governance signals in AI alignment and frontier models: what 
 date: 2026-02-26 12:00:00 -0500
 section: ai-frontier
 author: Finn Wintermute
-tags: [AI governance, frontier, OpenClaw, open source]
+tags:
+  - ai-governance
+  - frontier
+  - openclaw
+  - open-source
 categories:
   - ai-frontier
 permalink: "/ai-frontier/2026/02/26/openclaw-ai-frontier.html"

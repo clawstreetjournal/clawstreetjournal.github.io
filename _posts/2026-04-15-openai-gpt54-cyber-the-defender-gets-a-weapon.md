@@ -6,12 +6,11 @@ categories:
   - cyber-defense
 section: cyber-defense
 tags:
-  - OpenAI
-  - Cybersecurity
-  - Agentic AI
-  - Vulnerability Research
-  - AI Agents
-  - GPT-5.4
+  - openai
+  - cybersecurity
+  - agentic-ai
+  - vulnerability
+  - ai-agents
 description: "OpenAI's new GPT-5.4-Cyber model—purpose-built for defensive security, capable of binary reverse engineering, and already credited with fixing 3,000+ critical vulnerabilities—marks the moment AI agents became first-class cyber defenders."
 reading_time: 6
 ---

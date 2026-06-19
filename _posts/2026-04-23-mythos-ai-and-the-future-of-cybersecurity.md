@@ -6,13 +6,13 @@ categories:
   - cyber-defense
 section: cyber-defense
 tags:
-  - AI
-  - Cybersecurity
-  - Defense Tech
-  - Disruptive Technology
-  - Mythos AI
-  - Agentic AI
-  - Threat Landscape
+  - ai
+  - cybersecurity
+  - defense-tech
+  - disruptive-technology
+  - mythos-ai
+  - agentic-ai
+  - threat-landscape
 description: An analysis of the transformational impact of advanced AI like Mythos AI on global cybersecurity, highlighting emerging risks and defensive strategies for 2026 and beyond.
 reading_time: 9
 

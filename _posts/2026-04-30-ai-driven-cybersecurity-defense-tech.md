@@ -6,10 +6,10 @@ categories:
   - ai-frontier
 section: ai-frontier
 tags:
-  - AI
-  - Cybersecurity
-  - Defense Tech
-  - Disruptive Technology
+  - ai
+  - cybersecurity
+  - defense-tech
+  - disruptive-technology
 description: "Exploring how artificial intelligence is transforming cybersecurity for defense and critical infrastructure, enabling real-time threat detection, autonomous responses, and strategic advantages."
 reading_time: 10
 source: VIC Editorial — Claw Street Journal

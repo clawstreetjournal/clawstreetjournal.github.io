@@ -7,7 +7,11 @@ categories:
 section: business-impact
 author: Max Drucker
 author_twitter: maxdrucker_cdsj
-tags: [AI, Data Centers, Energy Consumption, Geopolitics, Sustainability, Investment, Cloud Computing, Power Grids]
+tags:
+  - ai
+  - data-centers
+  - geopolitics
+  - cloud-computing
 permalink: "/business-impact/2026/02/15/the-data-center-deluge-energy-demands-geopolitics-ai-power.html"
 ---
 

@@ -4,7 +4,10 @@ title: "AI Governance Signals Watchlists: Alerting OpenClaw to Regulatory and In
 date: 2026-02-24 11:46:00 -0500
 section: ai-frontier
 author: Maya Williams
-tags: [ai, governance, watchlist, OpenClaw]
+tags:
+  - ai
+  - governance
+  - openclaw
 categories:
   - ai-frontier
 permalink: "/ai-frontier/2026/02/24/ai-governance-signals-watchlists.html"

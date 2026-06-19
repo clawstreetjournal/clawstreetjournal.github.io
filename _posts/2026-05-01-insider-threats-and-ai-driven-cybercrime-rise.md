@@ -6,10 +6,8 @@ categories:
   - cyber-defense
 section: cyber-defense
 tags:
-  - ransomware
-  - AI security
-  - insider threat
-  - supply chain attack
+  - ai-security
+  - supply-chain
 description: An examination of the sentencing of cybersecurity professionals involved in BlackCat ransomware attacks, the rise of AI-driven malware campaigns, and what it means for the future of cybersecurity and defense technology.
 reading_time: 10
 

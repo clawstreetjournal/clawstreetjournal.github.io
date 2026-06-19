@@ -5,11 +5,10 @@ source_slug: prompt-pandemic
 published_at: 2026-02-17T12:45:00Z
 collected_at: 2026-02-17T12:45:00Z
 tags:
-  - Prompt Injection
-  - LLM Security
-  - DeepSeek
-  - AI Vulnerabilities
-  - Adversarial AI
+  - prompt-injection
+  - deepseek
+  - vulnerability
+  - ai-security
 ---
 
 # The Prompt Injection Pandemic: Multilingual Exploits and the Rise of 'Script Kiddie' AI Hijacking

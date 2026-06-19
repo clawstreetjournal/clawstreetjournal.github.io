@@ -6,14 +6,14 @@ categories:
   - ai-frontier
 section: ai-frontier
 tags:
-  - AI
-  - Cybersecurity
-  - Vulnerability Detection
-  - Anthropic
-  - Defense
-  - Claude Security
-  - Enterprise Security
-  - Automation
+  - ai
+  - cybersecurity
+  - vulnerability
+  - anthropic
+  - defense
+  - claude-security
+  - enterprise-security
+  - automation
 description: "Anthropic's Claude Security enters public beta, integrating AI-powered vulnerability detection directly into production codebases, signaling a transformative shift in enterprise cybersecurity and defense technology."
 reading_time: 9
 source: VIC Editorial — Claw Street Journal

@@ -11,6 +11,11 @@ tags:
   - enterprise-ai
   - cybersecurity
   - ai-governance
+  - anthropic
+  - microsoft
+  - enterprise-ai
+  - cybersecurity
+  - ai-governance
 description: "Anthropic released Mythos 5 with the strongest cybersecurity capabilities of any model, then asked for it to be regulated; Microsoft launched seven in-house MAI models; enterprise AI token budgets are breaking."
 reading_time: 10
 ---

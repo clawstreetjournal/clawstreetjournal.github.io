@@ -5,16 +5,11 @@ source_slug: the-human-horizon-identity-connection-and-meaning-in-an-agentic-wor
 published_at: 2026-02-19T14:00:00-05:00
 collected_at: 2026-02-19T14:00:00-05:00
 tags:
-  - AI
-  - Society
-  - Humanity
-  - Ethics
-  - Governance
-  - Automation
-  - Work
-  - Identity
-  - Connection
-  - Meaning
+  - ai
+  - society
+  - ethics
+  - governance
+  - automation
 reading_time: 8
 ---
 

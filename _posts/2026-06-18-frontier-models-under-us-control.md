@@ -12,6 +12,12 @@ tags:
   - openai
   - anthropic
   - pentagon
+  - regulation
+  - export-controls
+  - enterprise-ai
+  - openai
+  - anthropic
+  - pentagon
 description: "A new executive order, targeted export controls on Anthropic's top models, and a Pentagon vendor shuffle mark a decisive week in the U.S. government's effort to govern frontier AI."
 reading_time: 6
 ---

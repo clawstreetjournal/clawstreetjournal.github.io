@@ -6,11 +6,7 @@ source_slug: resilient-supply-chains-ai-driven-world-2026
 published_at: 2026-03-10T09:00:00-05:00
 collected_at: 2026-03-10T08:00:00-05:00
 tags:
-  - Supply Chain
-  - Risk Management
-  - Cyber
-  - Resilience
-  - Business Impact
+  - supply-chain
 reading_time: 4
 ---
 

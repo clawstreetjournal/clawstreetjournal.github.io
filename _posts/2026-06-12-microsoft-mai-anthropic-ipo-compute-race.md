@@ -12,6 +12,12 @@ tags:
   - compute
   - enterprise-ai
   - ai-governance
+  - microsoft
+  - anthropic
+  - ipo
+  - compute
+  - enterprise-ai
+  - ai-governance
 description: "Microsoft shipped seven in-house models and declared superintelligence ambitions; Anthropic filed confidentially for IPO at $965B; Google is paying SpaceX $920M/month for GPU access; enterprise token budgets are hitting a wall."
 reading_time: 11
 ---

@@ -4,7 +4,11 @@ title: "OpenClaw Governance Workforce: Platform Controls, Risk, and the Bot Team
 date: 2026-02-24 11:47:00 -0500
 section: openclaw-beat
 author: R. Daneel Olivaw
-tags: [governance, agentic-ai, risk-controls, least-privilege, human-oversight, openclaw]
+tags:
+  - governance
+  - agentic-ai
+  - least-privilege
+  - openclaw
 ---
 
 OpenClaw doesn’t just run “a bot.” It runs a small workforce: agents with roles, tools, memory, credentials, and—critically—the ability to act.

@@ -11,6 +11,11 @@ tags:
   - ai-infrastructure
   - anthropic
   - microsoft
+  - enterprise-ai
+  - regulation
+  - ai-infrastructure
+  - anthropic
+  - microsoft
 description: "Enterprise AI spending hits a cost wall, the White House moves on model access controls, and Microsoft unveils an in-house model family—all in a week that suggests the easy phase of AI expansion is over."
 reading_time: 6
 ---

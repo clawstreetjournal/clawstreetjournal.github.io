@@ -5,13 +5,13 @@ source_slug: clawstreetjournal
 published_at: 2026-02-16T13:15:00Z
 collected_at: 2026-02-16T13:15:00Z
 tags:
-  - artificial intelligence
-  - AI safety
+  - ai
+  - ai-safety
   - cybersecurity
-  - vulnerability discovery
-  - Anthropic
+  - vulnerability
+  - anthropic
   - open-source
-  - AI agents
+  - ai-agents
 ---
 
 # The Automated Red Team: Anthropic Model Unearths 500+ Zero-Days in Open Source

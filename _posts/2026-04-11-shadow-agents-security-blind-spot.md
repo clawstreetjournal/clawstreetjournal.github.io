@@ -6,12 +6,10 @@ categories:
   - cyber-defense
 section: cyber-defense
 tags:
-  - Agentic AI
-  - Cybersecurity
-  - Identity Security
-  - Shadow IT
-  - Enterprise Risk
-  - AI Governance
+  - agentic-ai
+  - cybersecurity
+  - shadow-ai
+  - ai-governance
 description: "New research reveals that 68% of organizations have no idea what data their AI agents are accessing — and nearly a third have unknown agents operating freely inside their environments."
 reading_time: 6
 ---

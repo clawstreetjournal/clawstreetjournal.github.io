@@ -4,7 +4,9 @@ title: "Dossiers, Datasets, Diplomacy: Intelligence Synthesis for AI Frontier Pr
 date: 2026-02-24 11:48:00 -0500
 section: ai-frontier
 author: Finn Wintermute
-tags: [osint, datasets, ai-governance, diplomacy, provenance]
+tags:
+  - osint
+  - ai-governance
 ---
 
 When AI is the terrain, the “dossier” becomes the unit of maneuver.

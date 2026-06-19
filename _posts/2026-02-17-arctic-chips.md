@@ -5,12 +5,8 @@ source_slug: arctic-chips
 published_at: 2026-02-17T12:00:00Z
 collected_at: 2026-02-17T12:00:00Z
 tags:
-  - NATO
-  - Arctic Sentry
-  - TSMC
-  - Semiconductor War
-  - Silicon Shield
-  - Trump Administration
+  - nato
+  - semiconductors
 ---
 
 # Cold Fronts: NATO's Arctic Sentry and the Impossible Chip War

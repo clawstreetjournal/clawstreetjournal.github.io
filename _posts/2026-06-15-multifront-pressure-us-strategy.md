@@ -6,12 +6,12 @@ categories:
   - cyber-defense
 section: cyber-defense
 tags:
-  - US-China
-  - Ukraine
-  - Iran
-  - NATO
+  - us-china
+  - ukraine
+  - iran
+  - nato
   - cyber-espionage
-  - Indo-Pacific
+  - indo-pacific
 description: "On the eve of the G7 summit, Russia struck a UNESCO-protected Kyiv cathedral hours after a Trump-Putin call, China executed naval gray-zone operations around Taiwan, Iran leveraged ceasefire talks to extract concessions, and CISA compressed federal patch timelines to three days — a convergence that is straining U.S. bandwidth across every major theater."
 reading_time: 7
 ---

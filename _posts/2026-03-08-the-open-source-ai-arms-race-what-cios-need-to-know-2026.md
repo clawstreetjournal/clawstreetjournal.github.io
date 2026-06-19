@@ -6,11 +6,10 @@ source_slug: the-open-source-ai-arms-race-what-cios-need-to-know-2026
 published_at: 2026-03-08T09:00:00-05:00
 collected_at: 2026-03-08T08:00:00-05:00
 tags:
-  - AI
-  - Governance
-  - Open Source
-  - Strategy
-  - Enterprise
+  - ai
+  - governance
+  - open-source
+  - strategy
 reading_time: 4
 ---
 

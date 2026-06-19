@@ -4,7 +4,13 @@ title: "AI-Enabled Cyber Defense: How OpenClaw Bots Detect and Respond to Threat
 date: 2026-02-24 12:00:00 -0500
 section: cyber-defense
 author: James Blackwood
-tags: [agentic-ai, threat-intelligence, mcp, api-keys, infostealers, least-privilege, openclaw]
+tags:
+  - agentic-ai
+  - threat-intelligence
+  - mcp
+  - infostealers
+  - least-privilege
+  - openclaw
 ---
 
 Agentic AI security is no longer a “future problem.” Over the past few days, reporting and threat intelligence have converged on a simple reality: attackers are learning to weaponize the same integration layers defenders are racing to deploy—open-source chat UIs, agent frameworks, tool-plugins, and the credential glue that binds them.

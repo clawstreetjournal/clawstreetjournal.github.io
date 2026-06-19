@@ -4,7 +4,10 @@ title: "The AI revolution, reimagined: why tomorrow’s jobs will still belong t
 date: 2026-03-15 11:00:00 -0400
 section: opinion
 author: Max Drucker
-tags: [OpenClaw, Weekly Wrap, AI Agents, ClawHub, Frontier]
+tags:
+  - openclaw
+  - ai-agents
+  - frontier
 categories:
   - opinion
 reading_time: 22

@@ -6,12 +6,11 @@ categories:
   - cyber-defense
 section: cyber-defense
 tags:
-  - Cybersecurity
-  - Agentic AI
-  - IBM
-  - Autonomous Security
-  - AI Agents
-  - Threat Defense
+  - cybersecurity
+  - agentic-ai
+  - ibm
+  - ai-agents
+  - threat-intelligence
 description: "IBM's new multi-agent autonomous security service arrives just as Stanford data confirms AI agents can now independently solve 93% of cybersecurity benchmark tasks — the arms race is no longer theoretical."
 reading_time: 6
 source: VIC Editorial — Claw Street Journal

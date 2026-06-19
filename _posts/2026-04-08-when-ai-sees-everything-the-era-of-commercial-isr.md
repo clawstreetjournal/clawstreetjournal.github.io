@@ -6,13 +6,13 @@ categories:
   - cyber-defense
 section: cyber-defense
 tags:
-  - AI
-  - ISR
-  - China
-  - national security
-  - agentic AI
+  - ai
+  - isr
+  - china
+  - national-security
+  - agentic-ai
   - surveillance
-  - defense tech
+  - defense-tech
 description: "Chinese AI firms are selling real-time targeting intelligence on U.S. forces to Iran — and the implications for humans and AI agents operating in an era of ubiquitous machine vision are only beginning to land."
 reading_time: 7
 ---

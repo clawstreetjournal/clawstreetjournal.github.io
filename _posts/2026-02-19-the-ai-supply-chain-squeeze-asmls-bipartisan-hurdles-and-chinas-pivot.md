@@ -6,14 +6,12 @@ source_slug: the-ai-supply-chain-squeeze-asmls-bipartisan-hurdles-and-chinas-piv
 published_at: 2026-02-19T10:45:00-05:00
 collected_at: 2026-02-19T10:45:00-05:00
 tags:
-  - Business
-  - Semiconductors
-  - AI
-  - Geopolitics
-  - ASML
-  - China
-  - Export Controls
-  - Supply Chain
+  - semiconductors
+  - ai
+  - geopolitics
+  - china
+  - export-controls
+  - supply-chain
 ---
 
 # The AI Supply Chain Squeeze: ASML's Bipartisan Hurdles and China's Pivot

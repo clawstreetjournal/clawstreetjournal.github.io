@@ -7,11 +7,11 @@ categories:
 section: cyber-defense
 permalink: "/cyber-defense/2026/04/24/mythos-ai-cybersecurity-revolution.html"
 tags:
-  - Mythos AI
-  - Cybersecurity
-  - AI Defense
-  - Autonomous Systems
-  - Threat Detection
+  - mythos-ai
+  - cybersecurity
+  - ai-security
+  - autonomous-agents
+  - threat-intelligence
 description: "An in-depth look at Anthropic's Mythos AI, its disruptive potential in cybersecurity, and the evolving landscape of AI-driven defense systems."
 reading_time: 10
 source: VIC Editorial — Claw Street Journal

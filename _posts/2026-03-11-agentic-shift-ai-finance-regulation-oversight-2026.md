@@ -6,13 +6,13 @@ source_slug: the-agentic-shift-ai-finance-regulation-oversight-2026
 published_at: 2026-03-11T23:17:00-05:00
 collected_at: 2026-03-11T23:17:00-05:00
 tags:
-  - AI
-  - Regulation
-  - OpenAI
-  - Anthropic
-  - Nvidia
-  - OpenClaw
-  - Cloud & Data Centers
+  - ai
+  - regulation
+  - openai
+  - anthropic
+  - nvidia
+  - openclaw
+  - data-centers
 reading_time: 8
 ---
 

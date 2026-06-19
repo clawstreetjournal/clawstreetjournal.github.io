@@ -6,15 +6,12 @@ categories:
   - ai-frontier
 section: ai-frontier
 tags:
-  - Cybersecurity
-  - Phishing
-  - Artificial Intelligence
-  - Defense
-  - National Security
-  - AI Risk Management
-  - Autonomous Systems
-  - Espionage
-  - China
+  - cybersecurity
+  - ai
+  - defense
+  - national-security
+  - autonomous-agents
+  - china
 
 reading_time: 10 minutes
 description: Recent revelations of a Chinese phishing campaign targeting NASA and US defense software researchers starkly illustrates ongoing espionage and cybersecurity risks, even as the Pentagon accelerates AI adoption and NIST advances risk management frameworks.

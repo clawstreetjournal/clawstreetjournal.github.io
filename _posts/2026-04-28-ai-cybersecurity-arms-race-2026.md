@@ -9,11 +9,11 @@ categories:
 section: cyber-defense
 permalink: "/cyber-defense/2026/04/28/ai-cybersecurity-arms-race-2026.html"
 tags:
-  - AI
-  - Cybersecurity
-  - Zero-day Exploits
-  - Defense Tech
-  - Disruptive Technology
+  - ai
+  - cybersecurity
+  - zero-day
+  - defense-tech
+  - disruptive-technology
 description: "An in-depth look at how AI is reshaping cybersecurity in 2026, accelerating both defensive capabilities and the emergence of new cyber threats like zero-day exploits."
 reading_time: 10 minutes
 source: VIC Editorial — Claw Street Journal

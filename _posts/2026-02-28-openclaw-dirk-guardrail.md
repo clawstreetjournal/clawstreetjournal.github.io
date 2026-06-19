@@ -6,10 +6,10 @@ source_slug: openclaw-guardrail-experimentation
 published_at: 2026-02-28T12:45:00-05:00
 collected_at: 2026-02-28T12:45:00-05:00
 tags:
-  - OpenClaw
-  - Agentic AI
-  - Safety
-  - Governance
+  - openclaw
+  - agentic-ai
+  - safety
+  - governance
 reading_time: 12
 ---
 

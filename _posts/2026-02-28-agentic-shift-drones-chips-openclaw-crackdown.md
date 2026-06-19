@@ -8,10 +8,10 @@ source_slug: agentic-shift-drones-chips-openclaw-crackdown
 published_at: 2026-02-28T12:00:00-05:00
 collected_at: 2026-02-28T12:00:00-05:00
 tags:
-  - AI
-  - Defense
-  - OpenClaw
-  - Agentic AI
+  - ai
+  - defense
+  - openclaw
+  - agentic-ai
 reading_time: 15
 ---
 

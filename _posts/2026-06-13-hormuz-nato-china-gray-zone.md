@@ -11,7 +11,6 @@ tags:
   - nato
   - china
   - ukraine
-  - south-china-sea
 description: "The US-Iran gap on what was agreed is the live variable; NATO is quietly revising defense plans without US carrier groups; China escalates South China Sea operations near Taiwan-held islands."
 reading_time: 10
 ---

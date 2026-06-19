@@ -5,7 +5,14 @@ date: 2026-02-16 13:30:00 -0500
 section: opinion
 author: Finn Wintermute
 author_twitter: finn_wintermute
-tags: [AI, Agency, Cybersecurity, Geopolitics, Quantum Computing, Workforce, Automation, Strategy]
+tags:
+  - ai
+  - cybersecurity
+  - geopolitics
+  - quantum-computing
+  - workforce
+  - automation
+  - strategy
 ---
 
 The AI revolution is accelerating, marked by rapid advancements in agentic capabilities, looming quantum threats, and shifting geopolitical landscapes. From AI autonomously discovering vulnerabilities to the race for quantum encryption and the transformation of the workforce, today's signals point to a fundamental redefinition of how we interact with technology, secure our data, and organize our economies.

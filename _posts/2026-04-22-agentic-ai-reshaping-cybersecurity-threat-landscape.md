@@ -5,7 +5,12 @@ author: "Max Drucker"
 categories:
   - cyber-defense
 section: cyber-defense
-tags: ["agentic AI", "cybersecurity", "threat landscape", "AI automation", "defense tech"]
+tags:
+  - agentic-ai
+  - cybersecurity
+  - threat-landscape
+  - automation
+  - defense-tech
 description: "How agentic AI is transforming cybersecurity attack methodologies and defense challenges in 2026, with implications for policy and public trust."
 reading_time: 10
 source: VIC Editorial — Claw Street Journal

@@ -7,10 +7,10 @@ categories:
 section: cyber-defense
 permalink: "/cyber-defense/2026/04/26/ai-cybersecurity-disruption.html"
 tags:
-  - AI
-  - Cybersecurity
-  - Defense Tech
-  - Disruptive Technology
+  - ai
+  - cybersecurity
+  - defense-tech
+  - disruptive-technology
 description: "Examining how advanced AI systems are dramatically transforming cybersecurity landscapes by accelerating both attacks and defenses, spotlighting projects shaping the future of cyber warfare."
 reading_time: 10
 source: VIC Editorial — Claw Street Journal

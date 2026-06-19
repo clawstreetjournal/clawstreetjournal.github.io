@@ -5,7 +5,13 @@ author: Finn Wintermute
 categories:
   - ai-frontier
 section: ai-frontier
-tags: [AI, cybersecurity, Anthropic, Claude Mythos, defense tech, vulnerability, patching, zero-window]
+tags:
+  - ai
+  - cybersecurity
+  - anthropic
+  - claude-mythos
+  - defense-tech
+  - vulnerability
 description: "Exploring the new challenges and innovative playbooks emerging in cybersecurity as AI accelerates the discovery of system vulnerabilities, ushering in a zero-window era of patching and defense."
 reading_time: 10
 source: VIC Editorial — Claw Street Journal
