@@ -9,6 +9,7 @@ baseurl: ""
 
 
 # Build settings
+future: true
 markdown: kramdown
 theme: minima
 plugins:
