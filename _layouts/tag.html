@@ -1,0 +1,72 @@
+---
+layout: default
+---
+<div class="tag-page">
+  <header class="tag-page-header">
+    <p class="tag-eyebrow">Tag</p>
+    <h1 class="tag-title">{{ page.title | replace: "-", " " }}</h1>
+    <p class="tag-count">{{ page.posts | size }} article{% if page.posts.size != 1 %}s{% endif %}</p>
+  </header>
+
+  <div class="tag-posts">
+    {% for post in page.posts %}
+    <article class="section-post-card">
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <div class="post-meta">
+        <span class="byline">By {% include post-byline.html post=post %}</span>
+        <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
+        {% if post.reading_time %}<span class="reading-time">{{ post.reading_time }} min read</span>{% endif %}
+        <span class="section-label"><a href="{{ '/sections/' | append: post.section | append: '.html' | relative_url }}">{{ post.section | replace: "-", " " | capitalize }}</a></span>
+      </div>
+      <p class="excerpt">{{ post.description | default: post.excerpt | strip_html | truncatewords: 40 }}</p>
+    </article>
+    {% endfor %}
+  </div>
+</div>
+
+<style>
+.tag-page {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+.tag-page-header {
+  text-align: center;
+  padding: 2rem 0 2.5rem;
+  border-bottom: 3px double var(--ink);
+  margin-bottom: 2.5rem;
+}
+.tag-eyebrow {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: var(--accent);
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+.tag-title {
+  font-size: 2.5rem;
+  text-transform: capitalize;
+  margin-bottom: 0.5rem;
+}
+.tag-count {
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  color: var(--gray);
+}
+.tag-posts {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+.section-label a {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  letter-spacing: 0.5px;
+}
+.section-label a:hover { text-decoration: underline; }
+</style>
