@@ -28,7 +28,7 @@ reading_time: 6
 **{{text}}**
 
 ** Executive Brief:**
-China's AI development reaches a new phase. Beijing pushes infrastructure and governance through WAICO. The People's Liberation Army expands AI integration in operational domains. Chinese open-weight models remain competitive with U.S. counterparts at a lower cost. Congress must consider policy adjustments addressing these advances.
+China's AI development reaches a new phase. Beijing pushes infrastructure and governance through WAICO. The People's Liberation Army expands AI integration in operational domains. Chinese open-weight models remain competitive with U.S. counterparts at a lower cost. Congress should consider policy adjustments addressing these advances.
 
 ## News Roundup
 
